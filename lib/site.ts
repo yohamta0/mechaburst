@@ -1,15 +1,15 @@
 export const langs = ["ja", "en", "de", "fr", "zh-Hans", "zh-Hant"] as const;
 export type Lang = (typeof langs)[number];
 
-// Site-wide facts. app.storeId is empty until the App Store listing is live;
-// the badge then links to the listing instead of showing "coming soon".
+// Site-wide facts. The badge links to the App Store once app.released is true;
+// until then it shows "coming soon", because the listing 404s before launch.
 export const site = {
   origin: "https://mechaburst.com",
   name: "MECHA BURST",
   developer: "Yota Hamada",
   contactEmail: "yohamta@gmail.com",
   policyUpdated: "2026-09-20",
-  app: { storeId: "", storeCountry: { ja: "jp", en: "us", de: "de", fr: "fr", "zh-Hans": "cn", "zh-Hant": "tw" } as Record<Lang, string> },
+  app: { released: false, storeId: "6812312523", storeCountry: { ja: "jp", en: "us", de: "de", fr: "fr", "zh-Hans": "cn", "zh-Hant": "tw" } as Record<Lang, string> },
   video: { ja: "ja", en: "en", de: "en", fr: "en", "zh-Hans": "en", "zh-Hant": "en" } as Record<Lang, "ja" | "en">,
   ogLocale: { ja: "ja_JP", en: "en_US", de: "de_DE", fr: "fr_FR", "zh-Hans": "zh_CN", "zh-Hant": "zh_TW" } as Record<Lang, string>,
   langName: { ja: "日本語", en: "English", de: "Deutsch", fr: "Français", "zh-Hans": "简体中文", "zh-Hant": "繁體中文" } as Record<Lang, string>,
@@ -20,7 +20,7 @@ export function isLang(s: string): s is Lang {
 }
 
 export function appStoreUrl(lang: Lang): string | null {
-  if (!site.app.storeId) return null;
+  if (!site.app.released || !site.app.storeId) return null;
   return `https://apps.apple.com/${site.app.storeCountry[lang]}/app/id${site.app.storeId}`;
 }
 

@@ -60,6 +60,6 @@ pnpm deploy          # build + wrangler deploy
 
 ## When the App Store listing is live
 
-Set `app.storeId` in `lib/site.ts` to the numeric Apple ID (App Store Connect →
-App Information). The badges then link to the listing instead of showing
-"coming soon".
+Set `app.released` to `true` in `lib/site.ts`. The App Store id is already
+there (`6812312523`), so the badges switch from "coming soon" to links into
+the listing. Before launch the listing URL 404s, which is why the flag exists.

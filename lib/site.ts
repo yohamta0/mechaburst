@@ -4,7 +4,7 @@ export type Lang = (typeof langs)[number];
 // Site-wide facts. app.storeId is empty until the App Store listing is live;
 // the badge then links to the listing instead of showing "coming soon".
 export const site = {
-  origin: "https://mechaburst.pages.dev",
+  origin: "https://mechaburst.com",
   name: "MECHA BURST",
   developer: "Yota Hamada",
   contactEmail: "yohamta@gmail.com",

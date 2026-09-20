@@ -1,8 +1,7 @@
 # MECHA BURST — official site
 
 Static marketing, support and privacy pages for the iOS game, served by a
-Cloudflare Worker (static assets) at https://mechaburst.pages.dev or the
-Worker's own hostname. Built with Next.js (static
+Cloudflare Worker (static assets) at https://mechaburst.com. Built with Next.js (static
 export); no server code, no analytics, no cookies.
 
 ## Pages
@@ -57,8 +56,7 @@ npx wrangler login   # once
 pnpm deploy          # build + wrangler deploy
 ```
 
-Attach `mechaburst.pages.dev`-style or custom hostnames from the Worker's
-Settings → Domains & Routes.
+`mechaburst.com` is attached to the Worker under Settings → Domains & Routes.
 
 ## When the App Store listing is live
 

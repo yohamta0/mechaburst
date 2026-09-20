@@ -2,7 +2,7 @@
   "name": "mechaburst",
   "private": true,
   "version": "1.0.0",
-  "description": "MECHA BURST — official site (mechaburst.pages.dev)",
+  "description": "MECHA BURST — official site (mechaburst.com)",
   "scripts": {
     "dev": "next dev",
     "build": "next build && node scripts/postbuild.mjs",

@@ -42,7 +42,7 @@ test("pages carry canonical and hreflang links", { skip: !existsSync(out) && "ru
     for (const slug of ["", "support/", "privacy/"]) {
       const html = readFileSync(join(out, lang, slug, "index.html"), "utf8");
       assert.match(html, new RegExp(`<html lang="${lang}"`), `${lang}/${slug} html lang`);
-      assert.match(html, new RegExp(`rel="canonical" href="https://mechaburst.pages.dev/${lang}/${slug}"`), `${lang}/${slug} canonical`);
+      assert.match(html, new RegExp(`rel="canonical" href="https://mechaburst.com/${lang}/${slug}"`), `${lang}/${slug} canonical`);
       assert.match(html, /hreflang="x-default"/i, `${lang}/${slug} x-default`);
       assert.match(html, /property="og:image"/, `${lang}/${slug} og:image`);
     }

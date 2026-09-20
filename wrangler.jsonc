@@ -1,0 +1,9 @@
+// Cloudflare Pages (direct upload). `npm run deploy` builds out/ and uploads it:
+//   npx wrangler login                                  # once
+//   npx wrangler pages project create mechaburst --production-branch main   # once
+//   npm run deploy                                      # → https://mechaburst.pages.dev
+{
+  "name": "mechaburst",
+  "pages_build_output_dir": "./out",
+  "compatibility_date": "2025-01-01"
+}

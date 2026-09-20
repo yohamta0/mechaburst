@@ -28,17 +28,17 @@ matching language's URL for each App Store locale.
 ## Commands
 
 ```sh
-npm install
-npm run build       # → out/
-npm test            # content shape + built-output link checks
-npm run dev         # local preview with hot reload
-npm run deploy      # build and upload out/ to the Pages project "mechaburst"
+pnpm install
+pnpm build       # → out/
+pnpm test            # content shape + built-output link checks
+pnpm dev         # local preview with hot reload
+pnpm deploy      # build and upload out/ to the Pages project "mechaburst"
 ```
 
 Regenerating media needs the game repo and ffmpeg:
 
 ```sh
-SPACEWAR_ROOT=/path/to/spacewar-go npm run media
+SPACEWAR_ROOT=/path/to/spacewar-go pnpm media
 ```
 
 ## Deploying
@@ -46,11 +46,11 @@ SPACEWAR_ROOT=/path/to/spacewar-go npm run media
 ```sh
 npx wrangler login                                                 # once
 npx wrangler pages project create mechaburst --production-branch main   # once
-npm run deploy
+pnpm deploy
 ```
 
 Cloudflare's Git integration works too: framework preset "Next.js (Static HTML
-Export)", build command `npm run build`, output directory `out`.
+Export)", build command `pnpm build`, output directory `out`.
 
 ## When the App Store listing is live
 

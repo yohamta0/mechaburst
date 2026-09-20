@@ -1,16 +1,7 @@
-import type { Metadata } from "next";
-import { langs, site, pageUrl } from "@/lib/site";
+// Layout for the unprefixed entry points (/, /support/, /privacy/). The
+// localized pages carry their own root layout under app/[lang].
 
-// Root layout for "/" only; the localized pages have their own root layout under app/[lang].
-const languages: Record<string, string> = Object.fromEntries(langs.map((l) => [l, pageUrl(l, "")]));
-languages["x-default"] = pageUrl("en", "");
-
-export const metadata: Metadata = {
-  metadataBase: new URL(site.origin),
-  title: site.name,
-  robots: { index: false, follow: true },
-  alternates: { languages },
-};
+export const viewport = { themeColor: "#07111c" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (

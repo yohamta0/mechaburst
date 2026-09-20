@@ -50,7 +50,7 @@ test("pages carry canonical and hreflang links", { skip: !existsSync(out) && "ru
 });
 
 test("Pages conventions are present", { skip: !existsSync(out) && "run npm run build first" }, () => {
-  for (const f of ["_headers", "404.html", "index.html", "robots.txt", "sitemap.xml", "img/og.png", "media/preview-ja.mp4", "media/preview-en.mp4"]) {
+  for (const f of ["_headers", "404.html", "index.html", "support/index.html", "privacy/index.html", "robots.txt", "sitemap.xml", "img/og.png", "media/preview-ja.mp4", "media/preview-en.mp4"]) {
     assert.ok(existsSync(join(out, f)), `${f} missing from out/`);
   }
   assert.match(readFileSync(join(out, "404.html"), "utf8"), /SIGNAL LOST/);

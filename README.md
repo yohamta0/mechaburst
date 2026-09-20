@@ -1,7 +1,8 @@
 # MECHA BURST — official site
 
-Static marketing, support and privacy pages for the iOS game, served from
-Cloudflare Pages at https://mechaburst.pages.dev. Built with Next.js (static
+Static marketing, support and privacy pages for the iOS game, served by a
+Cloudflare Worker (static assets) at https://mechaburst.pages.dev or the
+Worker's own hostname. Built with Next.js (static
 export); no server code, no analytics, no cookies.
 
 ## Pages
@@ -43,14 +44,21 @@ SPACEWAR_ROOT=/path/to/spacewar-go pnpm media
 
 ## Deploying
 
+Cloudflare Workers with static assets. With the Git integration (Workers &
+Pages → Create → Worker → import this repo) set:
+
+- Build command: `pnpm build`
+- Deploy command: `npx wrangler deploy`
+
+Every push to `main` then deploys. Locally:
+
 ```sh
-npx wrangler login                                                 # once
-npx wrangler pages project create mechaburst --production-branch main   # once
-pnpm deploy
+npx wrangler login   # once
+pnpm deploy          # build + wrangler deploy
 ```
 
-Cloudflare's Git integration works too: framework preset "Next.js (Static HTML
-Export)", build command `pnpm build`, output directory `out`.
+Attach `mechaburst.pages.dev`-style or custom hostnames from the Worker's
+Settings → Domains & Routes.
 
 ## When the App Store listing is live
 

@@ -9,7 +9,7 @@
     "start": "pnpm dlx serve out",
     "media": "node scripts/media.mjs && bash scripts/video.sh",
     "test": "node --test \"tests/*.test.mjs\"",
-    "deploy": "pnpm run build && wrangler pages deploy out --project-name mechaburst --branch main"
+    "deploy": "pnpm build && wrangler deploy"
   },
   "dependencies": {
     "next": "^16.3.5",

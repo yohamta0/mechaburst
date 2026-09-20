@@ -100,7 +100,7 @@
     "title": "Pay once. No ads. Anywhere, any time.",
     "items": [
       { "title": "Earth is free", "body": "The first campaign, Earth, is complete and free, as many runs as you like." },
-      { "title": "One-time Full Version", "body": "The four campaigns from Mars to the Sun unlock with a single in-app purchase, \"Full Version\". Nothing else to buy." },
+      { "title": "One-time Full Version", "body": "The four campaigns from Mars to the Sun unlock with a single in-app purchase, \"Full Version\". No consumables, no subscriptions." },
       { "title": "No ads, no account", "body": "No advertising of any kind, and nothing to sign up for." },
       { "title": "Plays offline", "body": "No connection needed. Autosave makes a short break painless." },
       { "title": "Portrait, one hand", "body": "A cockpit built for a portrait screen. iPhone and iPad." },
@@ -135,7 +135,7 @@
     "faq": [
       {
         "q": "What can I play for free?",
-        "a": "The first campaign, Earth, is completely free with every feature, and you can replay it as often as you like. The four campaigns from Mars to the Sun unlock with the one-time in-app purchase \"Full Version\". There is nothing else to buy."
+        "a": "The first campaign, Earth, is completely free with every feature, and you can replay it as often as you like. The four campaigns from Mars to the Sun unlock with the one-time in-app purchase \"Full Version\". There are no consumables and no subscriptions."
       },
       {
         "q": "How do I restore my purchase?",

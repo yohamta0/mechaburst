@@ -100,7 +100,7 @@
     "title": "Un seul achat. Sans pub. Partout, tout le temps.",
     "items": [
       { "title": "La Terre est gratuite", "body": "La première campagne, la Terre, est complète et gratuite, autant de fois que vous voulez." },
-      { "title": "Version complète unique", "body": "Les quatre campagnes de Mars au Soleil se débloquent avec un seul achat intégré, « Version complète ». Rien d'autre à acheter." },
+      { "title": "Version complète unique", "body": "Les quatre campagnes de Mars au Soleil se débloquent avec un seul achat intégré, « Version complète ». Ni consommables, ni abonnement." },
       { "title": "Sans pub, sans compte", "body": "Aucune publicité, et rien à créer pour jouer." },
       { "title": "Jouable hors ligne", "body": "Aucune connexion nécessaire. La sauvegarde automatique rend les pauses indolores." },
       { "title": "Vertical, à une main", "body": "Un cockpit conçu pour l'écran vertical. iPhone et iPad." },
@@ -135,7 +135,7 @@
     "faq": [
       {
         "q": "Que puis-je jouer gratuitement ?",
-        "a": "La première campagne, la Terre, est entièrement gratuite avec toutes les fonctions, et vous pouvez la rejouer autant que vous voulez. Les quatre campagnes de Mars au Soleil se débloquent avec l'achat intégré unique « Version complète ». Il n'y a rien d'autre à acheter."
+        "a": "La première campagne, la Terre, est entièrement gratuite avec toutes les fonctions, et vous pouvez la rejouer autant que vous voulez. Les quatre campagnes de Mars au Soleil se débloquent avec l'achat intégré unique « Version complète ». Il n'y a ni consommables, ni abonnement."
       },
       {
         "q": "Comment restaurer mon achat ?",

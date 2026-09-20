@@ -100,7 +100,7 @@
     "title": "Einmal zahlen. Keine Werbung. Überall, jederzeit.",
     "items": [
       { "title": "Die Erde ist gratis", "body": "Der erste Feldzug, die Erde, ist vollständig und kostenlos, so oft du willst." },
-      { "title": "Einmalige Vollversion", "body": "Die vier Feldzüge vom Mars bis zur Sonne werden mit einem einzigen In-App-Kauf „Vollversion“ freigeschaltet. Sonst gibt es nichts zu kaufen." },
+      { "title": "Einmalige Vollversion", "body": "Die vier Feldzüge vom Mars bis zur Sonne werden mit einem einzigen In-App-Kauf „Vollversion“ freigeschaltet. Keine Verbrauchsgegenstände, keine Abos." },
       { "title": "Keine Werbung, kein Konto", "body": "Keinerlei Werbung, und nichts, wofür du dich registrieren musst." },
       { "title": "Offline spielbar", "body": "Keine Verbindung nötig. Das Autosave macht kurze Pausen schmerzlos." },
       { "title": "Hochkant, eine Hand", "body": "Ein Cockpit für den Hochkant-Bildschirm. iPhone und iPad." },
@@ -135,7 +135,7 @@
     "faq": [
       {
         "q": "Was kann ich kostenlos spielen?",
-        "a": "Der erste Feldzug, die Erde, ist mit allen Funktionen komplett kostenlos und lässt sich beliebig oft wiederholen. Die vier Feldzüge vom Mars bis zur Sonne werden mit dem einmaligen In-App-Kauf „Vollversion“ freigeschaltet. Sonst gibt es nichts zu kaufen."
+        "a": "Der erste Feldzug, die Erde, ist mit allen Funktionen komplett kostenlos und lässt sich beliebig oft wiederholen. Die vier Feldzüge vom Mars bis zur Sonne werden mit dem einmaligen In-App-Kauf „Vollversion“ freigeschaltet. Keine Verbrauchsgegenstände, keine Abos."
       },
       {
         "q": "Wie stelle ich meinen Kauf wieder her?",

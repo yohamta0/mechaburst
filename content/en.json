@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "title": "MECHA BURST — Become the ace pilot the Federation's fate rides on",
+    "description": "Humanity's last line holds at lunar orbit. Climb into a combat mech as a cadet, lead your wing, and become the Ace of the Federation. The classic Uchū Bōeigun rebuilt by its creator as a portrait mech shooter. iPhone / iPad, Earth campaign free.",
+    "supportTitle": "Support — MECHA BURST",
+    "supportDescription": "How to contact the developer of MECHA BURST, plus answers about restoring purchases, save data and controls.",
+    "privacyTitle": "Privacy Policy — MECHA BURST",
+    "privacyDescription": "How the MECHA BURST iOS app and its official site handle data."
+  },
+  "nav": {
+    "home": "Home",
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "language": "Language",
+    "appStore": "Download on the App Store",
+    "comingSoon": "Coming soon",
+    "menu": "See the game"
+  },
+  "hero": {
+    "kicker": "Federation Space Force — Lunar Orbit",
+    "headline": "The Federation's fate rides in your cockpit.",
+    "sub": "22XX A.D. Humanity has lost the Solar System. Only lunar orbit remains: the Federation Space Force's last line of defense. You, a cadet, climb into a combat mech, lead your wing and sortie into the sectors that were lost. The record of the pilot who would become the Ace of the Federation starts here.",
+    "note": "iPhone / iPad · Earth campaign free · No ads · Plays offline",
+    "videoLabel": "MECHA BURST gameplay preview"
+  },
+  "story": {
+    "label": "Mission Briefing // 22XX",
+    "lines": [
+      "22XX A.D. The United Human Federation lost the Solar System.",
+      "Only lunar orbit remains. The Federation Space Force's last line of defense.",
+      "This is the story of a cadet who would become the Ace of the Federation."
+    ],
+    "tail": "That cadet is you."
+  },
+  "features": [
+    {
+      "label": "01 / Cockpit",
+      "title": "Strap into a cockpit that breathes.",
+      "body": "Radar, armor, reload. Over a phosphor-mint console you fly in every direction across a battlefield wider than the screen. Dive into an enemy's reach and the beam saber flashes; press the stick deep and the booster dash ignites, armor glowing white-hot and deflecting fire. Hit sparks, hit-stop, screen kick, purple smoke. Every ounce of feedback comes back through your hands.",
+      "shot": "space",
+      "alt": "Battle in orbit: the player's mech and a wingmate engaging an enemy squad",
+      "tags": ["Free flight", "Beam saber", "Booster dash", "Dynamic zoom"]
+    },
+    {
+      "label": "02 / Wing",
+      "title": "Sortie with a wing that has your back.",
+      "body": "This is no lone stand. The allies you form up fly beside you, call their kills and push forward. Rise from cadet toward admiral and you lead more of them; at the higher ranks you can send the wing out alone and command from the deck. They level up sortie after sortie, too. The squadron becomes something you built.",
+      "shot": "roster",
+      "alt": "The squadron roster with each wingmate's level",
+      "tags": ["Form your wing", "Rank promotions", "Wing-only sorties"]
+    },
+    {
+      "label": "03 / Named Enemies",
+      "title": "Enemies with names are waiting for you.",
+      "body": "Enemy squads fight with doctrine: rotating attacks, pincers, revenge for a fallen wingmate, saber charges, rams. Then the named ones appear in gold. After a gold telegraph and a called move comes the signature attack: rails racing the screen's edges, a ring of fireballs, a tidal wave, a rain of giant spears. Read the tell, break the range, bring one down and the funds come in big. Miss the kill and your nemesis returns.",
+      "shot": "unique_a",
+      "alt": "A named enemy with a gold nameplate unleashing its signature attack",
+      "tags": ["Squad doctrine", "Telegraphed moves", "Returning nemeses"]
+    },
+    {
+      "label": "04 / Hangar",
+      "title": "Grow your unit. Arm your pods.",
+      "body": "Shotgun, laser, cannon, nuclear missile, a heavy unit that raises a shield, even warship classes. Every unit changes your shot and your rhythm. Levels earned in sorties raise armor, reaction, rate of fire and firepower by chance, so your unit grows like no other of its type. Fill the funds gauge, pick a pod card, and thicken your barrage with piercing lasers, funnels and an Aegis shield.",
+      "shot": "deck",
+      "alt": "The command deck: orders for sortie, repair, unit purchase and more",
+      "tags": ["Many units", "Random growth", "Pod cards"]
+    },
+    {
+      "label": "05 / Fronts",
+      "title": "Push the line from Earth to the Sun.",
+      "body": "Orbit, fortress, open ground, city, asteroid belt. Fields that turn clear, cloudy, rainy and dark, chosen card by card on the front map. On the command deck, officer Liese briefs you and greets you home. Reach 100% occupation and the front is secured, on to the next planet. Mars, Jupiter, Saturn, the Sun: the Federation's line advances by your hand.",
+      "shot": "city_night",
+      "alt": "A night battle in the city with glowing tracers and lit windows",
+      "tags": ["Five battlefields", "Weather and night", "Front map"]
+    }
+  ],
+  "facts": [
+    { "n": "5", "label": "Campaigns, from Earth to the Sun" },
+    { "n": "5", "label": "Battlefields: orbit, fortress, field, city, asteroid belt" },
+    { "n": "22", "label": "Named enemies with signature moves" },
+    { "n": "20", "label": "Pod cards" },
+    { "n": "6", "label": "Languages" }
+  ],
+  "shots": {
+    "label": "Screenshots",
+    "title": "Field record",
+    "items": [
+      { "alt": "Shoot, slash, grow, take the front. Title screen" },
+      { "alt": "Dogfights in orbit. Cut through enemy squads with your allies" },
+      { "alt": "Read the signature move. Named enemies lie in wait across the fronts" },
+      { "alt": "From orbit to the ground. Dig through cover and silence the batteries" },
+      { "alt": "Night city, glowing tracers. Weather and time of day change every field" },
+      { "alt": "You choose the course. Pick the next sector from the front map's cards" },
+      { "alt": "Buy units. Form your wing. The command deck, where funds become a squadron" },
+      { "alt": "Front secured. On to the next. Five campaigns, from Earth to the Sun" }
+    ]
+  },
+  "principles": {
+    "label": "Fair Play",
+    "title": "Pay once. No ads. Anywhere, any time.",
+    "items": [
+      { "title": "Earth is free", "body": "The first campaign, Earth, is complete and free, as many runs as you like." },
+      { "title": "One-time Full Version", "body": "The four campaigns from Mars to the Sun unlock with a single in-app purchase, \"Full Version\". Nothing else to buy." },
+      { "title": "No ads, no account", "body": "No advertising of any kind, and nothing to sign up for." },
+      { "title": "Plays offline", "body": "No connection needed. Autosave makes a short break painless." },
+      { "title": "Portrait, one hand", "body": "A cockpit built for a portrait screen. iPhone and iPad." },
+      { "title": "Six languages", "body": "English, Japanese, German, French, Simplified and Traditional Chinese." }
+    ]
+  },
+  "cta": {
+    "title": "The Federation is waiting for your sortie.",
+    "body": "Play the Earth campaign free on iPhone and iPad."
+  },
+  "footer": {
+    "note": "MECHA BURST is a full remake of the 2012 Japanese feature-phone game Uchū Bōeigun, rebuilt by its original creator.",
+    "rights": "All rights reserved."
+  },
+  "support": {
+    "lead": "Questions, bug reports and requests about MECHA BURST are welcome by email.",
+    "contact": {
+      "label": "Contact",
+      "title": "Get in touch",
+      "body": "MECHA BURST is made by one developer, so a reply can take a few days. For bug reports, the details below make the investigation much faster.",
+      "button": "Send an email",
+      "subject": "[MECHA BURST] Support",
+      "includeTitle": "Please include",
+      "include": [
+        "Your device (for example iPhone 15 Pro)",
+        "Your iOS version",
+        "The app version (shown on the App Store page)",
+        "What screen you were on and what you did, with a screenshot if possible"
+      ]
+    },
+    "faqLabel": "FAQ",
+    "faq": [
+      {
+        "q": "What can I play for free?",
+        "a": "The first campaign, Earth, is completely free with every feature, and you can replay it as often as you like. The four campaigns from Mars to the Sun unlock with the one-time in-app purchase \"Full Version\". There is nothing else to buy."
+      },
+      {
+        "q": "How do I restore my purchase?",
+        "a": "After changing phones or reinstalling, open the command deck (the main menu), choose \"Full Version\" and press \"Restore Purchase\" on the page that appears. You need to be signed in with the same Apple ID you bought it with. The same page is also offered right after the Earth campaign is secured."
+      },
+      {
+        "q": "Can I play on another device?",
+        "a": "Yes. With the same Apple ID, the Full Version is available on both your iPhone and your iPad; use \"Restore Purchase\" on each device. Save data, however, stays on each device and is not synced between them."
+      },
+      {
+        "q": "Where is my save data kept?",
+        "a": "Save data is stored only on your device and is saved automatically. It is not synced or backed up to iCloud or anywhere else. Deleting the app deletes the save data with it."
+      },
+      {
+        "q": "Does it work offline?",
+        "a": "Yes. Playing needs no connection. Only buying or restoring the Full Version talks to the App Store."
+      },
+      {
+        "q": "How are the controls?",
+        "a": "Move with the left stick and fire with the right pad. Closing in on an enemy swings the beam saber; pressing the left stick deep fires the booster dash. Menus work with the pad at the bottom of the screen or by tapping."
+      },
+      {
+        "q": "How do I change the language?",
+        "a": "The app follows your iOS language setting. It supports English, Japanese, German, French, Simplified Chinese and Traditional Chinese."
+      },
+      {
+        "q": "I want a refund",
+        "a": "Refunds for in-app purchases are handled by Apple. Request one at https://reportaproblem.apple.com. The developer cannot issue refunds directly."
+      },
+      {
+        "q": "I found a bug",
+        "a": "Please use the contact details above and tell us your device, iOS version, app version and what happened. Fixes ship as quickly as possible."
+      }
+    ]
+  },
+  "privacy": {
+    "updated": "Last updated: September 20, 2026",
+    "intro": [
+      "This policy explains how the iOS app MECHA BURST (the \"App\") and its official website (mechaburst.pages.dev), both provided by Yota Hamada (the \"Developer\"), handle information."
+    ],
+    "sections": [
+      {
+        "title": "In short",
+        "paragraphs": [
+          "The App needs no account and collects no personal information such as your name, email address or location. It shows no advertising and does no ad tracking; it never asks for App Tracking Transparency permission."
+        ]
+      },
+      {
+        "title": "Usage analytics",
+        "paragraphs": [
+          "To improve the game, the App sends anonymous usage data to the analytics service of Amplitude, Inc. The data consists of in-game events such as opening the game, starting and finishing a sortie, the first sortie, purchases made with in-game funds and launching a pod, together with the campaign state at that moment (front, rank, funds, piloted unit, number of wingmates, battle result and similar).",
+          "To tell devices apart, the App uses a random identifier that it generates on the device at first launch. This identifier is not Apple's advertising or vendor identifier (IDFA / IDFV) and is not linked to you. Your IP address is masked when the data is sent and is not stored. No personally identifiable information is included."
+        ]
+      },
+      {
+        "title": "In-app purchase",
+        "paragraphs": [
+          "The \"Full Version\" purchase is processed by Apple's App Store (StoreKit). The Developer does not receive or store purchase history, payment details or your Apple ID. Ownership is verified on the device."
+        ]
+      },
+      {
+        "title": "Save data",
+        "paragraphs": [
+          "Your progress is stored only on your device, alongside the anonymous identifier described above. It is not sent to any server operated by the Developer and not synced to iCloud. Deleting the App deletes the save data and the identifier."
+        ]
+      },
+      {
+        "title": "This website",
+        "paragraphs": [
+          "The official website (mechaburst.pages.dev) sets no cookies and runs no analytics. Its hosting provider, Cloudflare, Inc., may process access logs (including IP addresses) for security and operations under its own privacy policy."
+        ]
+      },
+      {
+        "title": "Third-party services",
+        "paragraphs": ["The App and the website rely on the following third parties."],
+        "bullets": [
+          "Amplitude, Inc. (usage analytics) — https://amplitude.com/privacy",
+          "Apple Inc. (App Store, in-app purchase) — https://www.apple.com/legal/privacy/",
+          "Cloudflare, Inc. (website hosting) — https://www.cloudflare.com/privacypolicy/"
+        ]
+      },
+      {
+        "title": "Children",
+        "paragraphs": [
+          "Because the App collects no personal information, it treats every player the same regardless of age. It does not knowingly collect personal information from children under 13."
+        ]
+      },
+      {
+        "title": "Retention and deletion",
+        "paragraphs": [
+          "Analytics data is retained according to Amplitude's retention policy. Because the anonymous identifier is not linked to a person, the Developer cannot single out and delete a specific player's data. Deleting the App removes the identifier and the save data from your device, and no further data is sent."
+        ]
+      },
+      {
+        "title": "Changes",
+        "paragraphs": ["Changes to this policy are published on this page, with the date at the top updated."]
+      },
+      {
+        "title": "Language",
+        "paragraphs": ["The Japanese and English versions of this policy are authoritative. If another language version differs, the Japanese and English versions prevail."]
+      }
+    ],
+    "contactTitle": "Contact",
+    "contactBody": "Questions about this policy can be sent to"
+  }
+}

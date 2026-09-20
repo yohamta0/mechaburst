@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "title": "MECHA BURST — Devenez l'as sur qui repose le destin de la Fédération",
+    "description": "La dernière ligne de défense de l'humanité tient en orbite lunaire. Montez dans un mécha de combat en tant qu'élève pilote, menez votre escadrille et devenez l'As de la Fédération. Le classique Uchū Bōeigun, reconstruit par son créateur en shooter mécha vertical. iPhone / iPad, campagne terrestre gratuite.",
+    "supportTitle": "Assistance — MECHA BURST",
+    "supportDescription": "Comment contacter le développeur de MECHA BURST, et des réponses sur la restauration des achats, les sauvegardes et les commandes.",
+    "privacyTitle": "Politique de confidentialité — MECHA BURST",
+    "privacyDescription": "Comment l'application iOS MECHA BURST et son site officiel traitent les données."
+  },
+  "nav": {
+    "home": "Accueil",
+    "support": "Assistance",
+    "privacy": "Confidentialité",
+    "language": "Langue",
+    "appStore": "Télécharger dans l'App Store",
+    "comingSoon": "Bientôt",
+    "menu": "Découvrir le jeu"
+  },
+  "hero": {
+    "kicker": "Federation Space Force — Lunar Orbit",
+    "headline": "Le destin de la Fédération se joue dans votre cockpit.",
+    "sub": "An 22XX. L'humanité a perdu le Système solaire. Il ne reste que l'orbite lunaire : la dernière ligne de défense de la Flotte fédérale. Vous, élève pilote, montez dans un mécha de combat, menez votre escadrille et partez en sortie dans les secteurs perdus. Ici commence le dossier du pilote qui deviendra l'As de la Fédération.",
+    "note": "iPhone / iPad · Campagne terrestre gratuite · Sans pub · Jouable hors ligne",
+    "videoLabel": "Aperçu du gameplay de MECHA BURST"
+  },
+  "story": {
+    "label": "Mission Briefing // 22XX",
+    "lines": [
+      "An 22XX. La Fédération humaine unie a perdu le Système solaire.",
+      "Il ne reste que l'orbite lunaire. Dernière ligne de défense de la Flotte fédérale.",
+      "Voici l'histoire d'un élève qui deviendra l'As de la Fédération."
+    ],
+    "tail": "Cet élève, c'est vous."
+  },
+  "features": [
+    {
+      "label": "01 / Cockpit",
+      "title": "Sanglez-vous dans un cockpit qui respire.",
+      "body": "Radar, blindage, rechargement. Au-dessus d'une console vert phosphore, vous volez dans toutes les directions sur un champ de bataille plus large que l'écran. Plongez à portée d'un ennemi et le sabre à faisceau jaillit ; enfoncez le stick et le dash de boost s'allume, blindage chauffé à blanc qui dévie les tirs. Étincelles, temps d'arrêt, secousse d'écran, fumée violette. Chaque retour du combat passe par vos mains.",
+      "shot": "space",
+      "alt": "Combat en orbite : le mécha du joueur et un équipier face à une escouade ennemie",
+      "tags": ["Vol libre", "Sabre à faisceau", "Dash de boost", "Zoom dynamique"]
+    },
+    {
+      "label": "02 / Wing",
+      "title": "Partez en sortie avec une escadrille qui couvre vos arrières.",
+      "body": "Pas de baroud solitaire. Les alliés que vous formez volent à vos côtés, annoncent leurs victoires et poussent en avant. Montez de cadet vers amiral et vous en menez davantage ; aux grades élevés, envoyez l'escadrille seule et commandez depuis le pont. Eux aussi montent de niveau sortie après sortie. L'escadrille devient quelque chose que vous avez bâti.",
+      "shot": "roster",
+      "alt": "La liste de l'escadrille avec le niveau de chaque équipier",
+      "tags": ["Formez votre escadrille", "Promotions", "Sorties sans le joueur"]
+    },
+    {
+      "label": "03 / Named Enemies",
+      "title": "Des ennemis qui ont un nom vous attendent.",
+      "body": "Les escouades ennemies combattent avec doctrine : attaques à tour de rôle, tenailles, vengeance d'un équipier tombé, charges au sabre, percussions. Puis les nommés apparaissent, en lettres d'or. Après une annonce dorée et le cri de leur technique vient l'attaque signature : des rails le long des bords de l'écran, un anneau de boules de feu, un raz-de-marée, une pluie de lances géantes. Lisez l'annonce, brisez la distance, abattez-en un et le mérite tombe en grand. Manquez la mise à mort et votre némésis revient.",
+      "shot": "unique_a",
+      "alt": "Un ennemi nommé à la plaque dorée déchaîne son attaque signature",
+      "tags": ["Doctrine d'escouade", "Attaques annoncées", "Némésis récurrentes"]
+    },
+    {
+      "label": "04 / Hangar",
+      "title": "Faites grandir votre unité. Armez vos drones.",
+      "body": "Fusil à pompe, laser, canon, missile nucléaire, une unité lourde qui lève un bouclier, jusqu'aux classes de vaisseaux de guerre. Chaque unité change votre tir et votre rythme. Les niveaux gagnés en sortie augmentent au hasard blindage, réaction, cadence et puissance : votre unité grandit comme aucune autre de son modèle. Remplissez la jauge de mérite, choisissez une carte de drone et épaississez votre barrage avec lasers perforants, funnels et bouclier Égide.",
+      "shot": "deck",
+      "alt": "Le pont de commandement : ordres de sortie, réparation, achat d'unités et plus",
+      "tags": ["Unités variées", "Progression aléatoire", "Cartes de drone"]
+    },
+    {
+      "label": "05 / Fronts",
+      "title": "Poussez la ligne de la Terre au Soleil.",
+      "body": "Orbite, forteresse, terrain découvert, ville, ceinture d'astéroïdes. Des terrains qui passent du beau temps aux nuages, à la pluie et à la nuit, choisis carte par carte sur la carte du front. Sur le pont de commandement, l'officier Liese vous briefe et vous accueille au retour. Atteignez 100 % d'occupation et le front est conquis, en route vers la planète suivante. Mars, Jupiter, Saturne, le Soleil : la ligne de la Fédération avance par votre main.",
+      "shot": "city_night",
+      "alt": "Un combat nocturne en ville, traînées lumineuses et fenêtres éclairées",
+      "tags": ["Cinq champs de bataille", "Météo et nuit", "Carte du front"]
+    }
+  ],
+  "facts": [
+    { "n": "5", "label": "Campagnes, de la Terre au Soleil" },
+    { "n": "5", "label": "Champs de bataille : orbite, forteresse, terrain, ville, ceinture d'astéroïdes" },
+    { "n": "22", "label": "Ennemis nommés aux attaques signature" },
+    { "n": "20", "label": "Cartes de drone" },
+    { "n": "6", "label": "Langues" }
+  ],
+  "shots": {
+    "label": "Screenshots",
+    "title": "Journal de bord",
+    "items": [
+      { "alt": "Tirez, tranchez, progressez, conquérez. Écran titre" },
+      { "alt": "Mêlée en orbite. Percez les escouades ennemies avec vos alliés" },
+      { "alt": "Anticipez l'attaque signature. Des ennemis nommés guettent en chaque secteur" },
+      { "alt": "De l'orbite au sol. Creusez, puis faites taire les batteries" },
+      { "alt": "Ville de nuit, traînées de feu. La météo et l'heure transforment chaque terrain" },
+      { "alt": "Vous choisissez le cap. Choisissez le secteur suivant sur la carte" },
+      { "alt": "Achetez. Formez votre escadrille. Sur le pont, le mérite devient une escadrille" },
+      { "alt": "Front conquis. Au suivant. Cinq campagnes, de la Terre au Soleil" }
+    ]
+  },
+  "principles": {
+    "label": "Fair Play",
+    "title": "Un seul achat. Sans pub. Partout, tout le temps.",
+    "items": [
+      { "title": "La Terre est gratuite", "body": "La première campagne, la Terre, est complète et gratuite, autant de fois que vous voulez." },
+      { "title": "Version complète unique", "body": "Les quatre campagnes de Mars au Soleil se débloquent avec un seul achat intégré, « Version complète ». Rien d'autre à acheter." },
+      { "title": "Sans pub, sans compte", "body": "Aucune publicité, et rien à créer pour jouer." },
+      { "title": "Jouable hors ligne", "body": "Aucune connexion nécessaire. La sauvegarde automatique rend les pauses indolores." },
+      { "title": "Vertical, à une main", "body": "Un cockpit conçu pour l'écran vertical. iPhone et iPad." },
+      { "title": "Six langues", "body": "Français, anglais, japonais, allemand, chinois simplifié et traditionnel." }
+    ]
+  },
+  "cta": {
+    "title": "La Fédération attend votre sortie.",
+    "body": "Jouez la campagne terrestre gratuitement sur iPhone et iPad."
+  },
+  "footer": {
+    "note": "MECHA BURST est le remake complet du jeu japonais pour téléphone à clapet Uchū Bōeigun (2012), reconstruit par son créateur original.",
+    "rights": "Tous droits réservés."
+  },
+  "support": {
+    "lead": "Questions, rapports de bugs et suggestions sur MECHA BURST sont les bienvenus par e-mail.",
+    "contact": {
+      "label": "Contact",
+      "title": "Nous contacter",
+      "body": "MECHA BURST est développé par une seule personne : une réponse peut prendre quelques jours. Pour un rapport de bug, les informations ci-dessous accélèrent beaucoup l'enquête.",
+      "button": "Envoyer un e-mail",
+      "subject": "[MECHA BURST] Assistance",
+      "includeTitle": "Merci d'indiquer",
+      "include": [
+        "Votre appareil (par exemple iPhone 15 Pro)",
+        "Votre version d'iOS",
+        "La version de l'application (indiquée sur la page de l'App Store)",
+        "L'écran où vous étiez et ce que vous avez fait, avec une capture si possible"
+      ]
+    },
+    "faqLabel": "FAQ",
+    "faq": [
+      {
+        "q": "Que puis-je jouer gratuitement ?",
+        "a": "La première campagne, la Terre, est entièrement gratuite avec toutes les fonctions, et vous pouvez la rejouer autant que vous voulez. Les quatre campagnes de Mars au Soleil se débloquent avec l'achat intégré unique « Version complète ». Il n'y a rien d'autre à acheter."
+      },
+      {
+        "q": "Comment restaurer mon achat ?",
+        "a": "Après un changement de téléphone ou une réinstallation, ouvrez le pont de commandement (le menu principal), choisissez « Version complète » et appuyez sur « Restaurer l'achat » sur la page qui s'affiche. Vous devez être connecté avec le même identifiant Apple que lors de l'achat. La même page est aussi proposée juste après la conquête de la campagne terrestre."
+      },
+      {
+        "q": "Puis-je jouer sur un autre appareil ?",
+        "a": "Oui. Avec le même identifiant Apple, la Version complète est disponible sur votre iPhone et votre iPad ; utilisez « Restaurer l'achat » sur chaque appareil. Les sauvegardes, elles, restent sur chaque appareil et ne sont pas synchronisées."
+      },
+      {
+        "q": "Où est conservée ma sauvegarde ?",
+        "a": "La sauvegarde est stockée uniquement sur votre appareil et enregistrée automatiquement. Elle n'est ni synchronisée ni sauvegardée sur iCloud ou ailleurs. Supprimer l'application supprime la sauvegarde avec elle."
+      },
+      {
+        "q": "Fonctionne-t-il hors ligne ?",
+        "a": "Oui. Jouer ne nécessite aucune connexion. Seuls l'achat ou la restauration de la Version complète communiquent avec l'App Store."
+      },
+      {
+        "q": "Quelles sont les commandes ?",
+        "a": "Déplacez-vous avec le stick gauche et tirez avec le pad droit. Se rapprocher d'un ennemi déclenche le sabre à faisceau ; enfoncer le stick gauche lance le dash de boost. Les menus se pilotent avec le pad en bas de l'écran ou en touchant l'écran."
+      },
+      {
+        "q": "Comment changer la langue ?",
+        "a": "L'application suit la langue réglée dans iOS. Elle prend en charge le français, l'anglais, le japonais, l'allemand, le chinois simplifié et le chinois traditionnel."
+      },
+      {
+        "q": "Je veux un remboursement",
+        "a": "Les remboursements d'achats intégrés sont gérés par Apple. Faites la demande sur https://reportaproblem.apple.com. Le développeur ne peut pas effectuer de remboursement directement."
+      },
+      {
+        "q": "J'ai trouvé un bug",
+        "a": "Utilisez les coordonnées ci-dessus et indiquez votre appareil, votre version d'iOS, la version de l'application et ce qui s'est passé. Les correctifs sont publiés aussi vite que possible."
+      }
+    ]
+  },
+  "privacy": {
+    "updated": "Dernière mise à jour : 20 septembre 2026",
+    "intro": [
+      "Cette politique explique comment l'application iOS MECHA BURST (l'« Application ») et son site officiel (mechaburst.pages.dev), tous deux fournis par Yota Hamada (le « Développeur »), traitent les informations."
+    ],
+    "sections": [
+      {
+        "title": "En bref",
+        "paragraphs": [
+          "L'Application ne nécessite aucun compte et ne collecte aucune information personnelle telle que votre nom, votre adresse e-mail ou votre position. Elle n'affiche aucune publicité et ne fait aucun suivi publicitaire ; elle ne demande jamais l'autorisation App Tracking Transparency."
+        ]
+      },
+      {
+        "title": "Statistiques d'utilisation",
+        "paragraphs": [
+          "Pour améliorer le jeu, l'Application envoie des données d'utilisation anonymes au service d'analyse d'Amplitude, Inc. Ces données sont des événements de jeu tels que l'ouverture du jeu, le début et la fin d'une sortie, la première sortie, les achats effectués avec la monnaie du jeu et le lancement d'un drone, accompagnés de l'état de la campagne à cet instant (front, grade, mérite, unité pilotée, nombre d'équipiers, résultat du combat et similaires).",
+          "Pour distinguer les appareils, l'Application utilise un identifiant aléatoire qu'elle génère sur l'appareil au premier lancement. Cet identifiant n'est pas l'identifiant publicitaire ni l'identifiant fournisseur d'Apple (IDFA / IDFV) et n'est pas lié à vous. Votre adresse IP est masquée lors de l'envoi et n'est pas conservée. Aucune information permettant de vous identifier n'est incluse."
+        ]
+      },
+      {
+        "title": "Achat intégré",
+        "paragraphs": [
+          "L'achat « Version complète » est traité par l'App Store d'Apple (StoreKit). Le Développeur ne reçoit ni ne conserve l'historique d'achat, les données de paiement ou votre identifiant Apple. La possession est vérifiée sur l'appareil."
+        ]
+      },
+      {
+        "title": "Sauvegarde",
+        "paragraphs": [
+          "Votre progression est stockée uniquement sur votre appareil, avec l'identifiant anonyme décrit ci-dessus. Elle n'est envoyée à aucun serveur exploité par le Développeur et n'est pas synchronisée avec iCloud. Supprimer l'Application supprime la sauvegarde et l'identifiant."
+        ]
+      },
+      {
+        "title": "Ce site",
+        "paragraphs": [
+          "Le site officiel (mechaburst.pages.dev) ne dépose aucun cookie et n'exécute aucune analyse d'audience. Son hébergeur, Cloudflare, Inc., peut traiter des journaux d'accès (dont les adresses IP) à des fins de sécurité et d'exploitation, selon sa propre politique de confidentialité."
+        ]
+      },
+      {
+        "title": "Services tiers",
+        "paragraphs": ["L'Application et le site s'appuient sur les tiers suivants."],
+        "bullets": [
+          "Amplitude, Inc. (statistiques d'utilisation) — https://amplitude.com/privacy",
+          "Apple Inc. (App Store, achat intégré) — https://www.apple.com/legal/privacy/",
+          "Cloudflare, Inc. (hébergement du site) — https://www.cloudflare.com/privacypolicy/"
+        ]
+      },
+      {
+        "title": "Enfants",
+        "paragraphs": [
+          "Comme l'Application ne collecte aucune information personnelle, elle traite chaque joueur de la même façon, quel que soit son âge. Elle ne collecte sciemment aucune information personnelle d'enfants de moins de 13 ans."
+        ]
+      },
+      {
+        "title": "Conservation et suppression",
+        "paragraphs": [
+          "Les données d'analyse sont conservées selon la politique de conservation d'Amplitude. L'identifiant anonyme n'étant lié à aucune personne, le Développeur ne peut pas isoler et supprimer les données d'un joueur précis. Supprimer l'Application retire l'identifiant et la sauvegarde de votre appareil, et plus aucune donnée n'est envoyée."
+        ]
+      },
+      {
+        "title": "Modifications",
+        "paragraphs": ["Les modifications de cette politique sont publiées sur cette page, avec la date en tête mise à jour."]
+      },
+      {
+        "title": "Langue",
+        "paragraphs": ["Les versions japonaise et anglaise de cette politique font foi. En cas de divergence avec une autre version linguistique, les versions japonaise et anglaise prévalent."]
+      }
+    ],
+    "contactTitle": "Contact",
+    "contactBody": "Les questions sur cette politique peuvent être envoyées à"
+  }
+}

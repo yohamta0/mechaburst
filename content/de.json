@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "title": "MECHA BURST — Werde das Ass, auf dem das Schicksal der Föderation ruht",
+    "description": "Die letzte Verteidigungslinie der Menschheit hält im Mondorbit. Steig als Kadett in einen Kampfmecha, führe deine Staffel und werde zum Ass der Föderation. Der Klassiker Uchū Bōeigun, vom Schöpfer als Hochkant-Mecha-Shooter neu gebaut. iPhone / iPad, Erd-Feldzug gratis.",
+    "supportTitle": "Support — MECHA BURST",
+    "supportDescription": "Kontakt zum Entwickler von MECHA BURST sowie Antworten zu Kauf-Wiederherstellung, Spielständen und Steuerung.",
+    "privacyTitle": "Datenschutzerklärung — MECHA BURST",
+    "privacyDescription": "Wie die iOS-App MECHA BURST und ihre offizielle Website mit Daten umgehen."
+  },
+  "nav": {
+    "home": "Start",
+    "support": "Support",
+    "privacy": "Datenschutz",
+    "language": "Sprache",
+    "appStore": "Laden im App Store",
+    "comingSoon": "Demnächst",
+    "menu": "Das Spiel ansehen"
+  },
+  "hero": {
+    "kicker": "Federation Space Force — Lunar Orbit",
+    "headline": "Das Schicksal der Föderation liegt in deinem Cockpit.",
+    "sub": "22XX n. Chr. Die Menschheit hat das Sonnensystem verloren. Nur der Mondorbit bleibt: die letzte Verteidigungslinie der föderalen Raumflotte. Du, ein Kadett, steigst in einen Kampfmecha, führst deine Staffel und rückst in die verlorenen Sektoren aus. Hier beginnt die Akte des Piloten, der zum Ass der Föderation werden sollte.",
+    "note": "iPhone / iPad · Erd-Feldzug gratis · Keine Werbung · Offline spielbar",
+    "videoLabel": "MECHA BURST Gameplay-Vorschau"
+  },
+  "story": {
+    "label": "Mission Briefing // 22XX",
+    "lines": [
+      "22XX n. Chr. Die Vereinigte Menschheitsföderation verlor das Sonnensystem.",
+      "Nur die Mondumlaufbahn bleibt. Die letzte Verteidigungslinie der föderalen Raumflotte.",
+      "Dies ist die Geschichte eines Kadetten, der zum Ass der Föderation werden sollte."
+    ],
+    "tail": "Dieser Kadett bist du."
+  },
+  "features": [
+    {
+      "label": "01 / Cockpit",
+      "title": "Schnall dich in ein Cockpit, das atmet.",
+      "body": "Radar, Panzerung, Nachladen. Über einer phosphorgrünen Konsole fliegst du in alle Richtungen über ein Schlachtfeld, das größer ist als der Bildschirm. Stößt du in die Reichweite eines Gegners vor, blitzt das Strahlschwert; drückst du den Stick tief, zündet der Booster-Dash, die Panzerung glüht weiß und wehrt Schüsse ab. Treffer-Funken, Hit-Stop, Bildschirmkick, violetter Rauch. Jede Rückmeldung des Gefechts landet in deinen Händen.",
+      "shot": "space",
+      "alt": "Gefecht im Orbit: der eigene Mecha und ein Flügelmann im Kampf gegen eine Feindstaffel",
+      "tags": ["Freier Flug", "Strahlschwert", "Booster-Dash", "Dynamischer Zoom"]
+    },
+    {
+      "label": "02 / Wing",
+      "title": "Rück aus mit einer Staffel, die dir den Rücken deckt.",
+      "body": "Kein Alleingang. Die Verbündeten, die du aufstellst, fliegen neben dir, melden ihre Abschüsse und stoßen vor. Steigst du vom Kadetten Richtung Admiral auf, führst du mehr von ihnen; in hohen Dienstgraden schickst du die Staffel auch allein los und kommandierst vom Deck aus. Auch sie steigen mit jedem Einsatz im Level. Die Staffel wird zu etwas, das du aufgebaut hast.",
+      "shot": "roster",
+      "alt": "Die Staffelliste mit dem Level jedes Flügelmanns",
+      "tags": ["Staffel aufstellen", "Beförderungen", "Einsätze nur mit Staffel"]
+    },
+    {
+      "label": "03 / Named Enemies",
+      "title": "Gegner mit Namen warten auf dich.",
+      "body": "Feindstaffeln kämpfen mit Doktrin: abwechselnde Angriffe, Zangen, Rache für gefallene Kameraden, Schwertsturm, Rammen. Dann tauchen die Benannten auf, in Gold. Nach goldener Ankündigung und dem Ruf ihres Manövers folgt der Spezialangriff: Schienen an den Bildschirmrändern, ein Ring aus Feuerbällen, eine Flutwelle, ein Regen riesiger Speere. Lies die Ankündigung, brich die Distanz, hol einen herunter, und der Verdienst fällt groß aus. Verpasst du den Abschuss, kehrt dein Erzfeind zurück.",
+      "shot": "unique_a",
+      "alt": "Ein benannter Gegner mit goldenem Namensschild entfesselt seinen Spezialangriff",
+      "tags": ["Staffel-Doktrin", "Angekündigte Manöver", "Wiederkehrende Erzfeinde"]
+    },
+    {
+      "label": "04 / Hangar",
+      "title": "Lass deine Einheit wachsen. Rüste deine Drohnen.",
+      "body": "Schrotflinte, Laser, Kanone, Atomrakete, eine schwere Einheit mit Schild, sogar Kriegsschiffklassen. Jede Einheit verändert deinen Schuss und deinen Rhythmus. Level aus Einsätzen heben Panzerung, Reaktion, Feuerrate und Feuerkraft per Zufall, sodass deine Einheit wächst wie keine andere ihres Typs. Füll die Verdienstanzeige, wähle eine Drohnenkarte und verdichte dein Sperrfeuer mit durchschlagenden Lasern, Funnels und einem Aegis-Schild.",
+      "shot": "deck",
+      "alt": "Das Kommandodeck: Befehle für Einsatz, Reparatur, Einheitenkauf und mehr",
+      "tags": ["Viele Einheiten", "Zufälliges Wachstum", "Drohnenkarten"]
+    },
+    {
+      "label": "05 / Fronts",
+      "title": "Schieb die Front von der Erde bis zur Sonne.",
+      "body": "Orbit, Festung, offenes Gelände, Stadt, Asteroidengürtel. Felder, die klar, bewölkt, verregnet und dunkel werden, Karte für Karte auf der Frontkarte gewählt. Auf dem Kommandodeck brieft dich Offizierin Liese und begrüßt dich zurück. Erreichst du 100 % Besetzung, ist die Front gesichert, weiter zum nächsten Planeten. Mars, Jupiter, Saturn, Sonne: Die Linie der Föderation rückt durch deine Hand vor.",
+      "shot": "city_night",
+      "alt": "Ein Nachtgefecht in der Stadt mit leuchtenden Leuchtspuren und erleuchteten Fenstern",
+      "tags": ["Fünf Schlachtfelder", "Wetter und Nacht", "Frontkarte"]
+    }
+  ],
+  "facts": [
+    { "n": "5", "label": "Feldzüge, von der Erde bis zur Sonne" },
+    { "n": "5", "label": "Schlachtfelder: Orbit, Festung, Gelände, Stadt, Asteroidengürtel" },
+    { "n": "22", "label": "Benannte Gegner mit Spezialangriffen" },
+    { "n": "20", "label": "Drohnenkarten" },
+    { "n": "6", "label": "Sprachen" }
+  ],
+  "shots": {
+    "label": "Screenshots",
+    "title": "Gefechtsakte",
+    "items": [
+      { "alt": "Schießen, schneiden, wachsen, erobern. Titelbildschirm" },
+      { "alt": "Gefecht im Orbit. Zerschlage Staffeln mit deinen Verbündeten" },
+      { "alt": "Durchschaue den Spezialangriff. Benannte Gegner lauern in jedem Sektor" },
+      { "alt": "Vom Orbit auf den Boden. Deckung graben, Batterien ausschalten" },
+      { "alt": "Nachtstadt, leuchtende Bahnen. Wetter und Tageszeit verändern jedes Feld" },
+      { "alt": "Du bestimmst den Kurs. Wähle den nächsten Sektor auf der Frontkarte" },
+      { "alt": "Einheiten kaufen. Staffel bilden. Kommandodeck: Verdienst wird zur Staffel" },
+      { "alt": "Front gesichert. Weiter geht's. Fünf Feldzüge, von der Erde bis zur Sonne" }
+    ]
+  },
+  "principles": {
+    "label": "Fair Play",
+    "title": "Einmal zahlen. Keine Werbung. Überall, jederzeit.",
+    "items": [
+      { "title": "Die Erde ist gratis", "body": "Der erste Feldzug, die Erde, ist vollständig und kostenlos, so oft du willst." },
+      { "title": "Einmalige Vollversion", "body": "Die vier Feldzüge vom Mars bis zur Sonne werden mit einem einzigen In-App-Kauf „Vollversion“ freigeschaltet. Sonst gibt es nichts zu kaufen." },
+      { "title": "Keine Werbung, kein Konto", "body": "Keinerlei Werbung, und nichts, wofür du dich registrieren musst." },
+      { "title": "Offline spielbar", "body": "Keine Verbindung nötig. Das Autosave macht kurze Pausen schmerzlos." },
+      { "title": "Hochkant, eine Hand", "body": "Ein Cockpit für den Hochkant-Bildschirm. iPhone und iPad." },
+      { "title": "Sechs Sprachen", "body": "Deutsch, Englisch, Japanisch, Französisch, vereinfachtes und traditionelles Chinesisch." }
+    ]
+  },
+  "cta": {
+    "title": "Die Föderation wartet auf deinen Einsatz.",
+    "body": "Spiel den Erd-Feldzug gratis auf iPhone und iPad."
+  },
+  "footer": {
+    "note": "MECHA BURST ist die komplette Neuauflage des japanischen Handyspiels Uchū Bōeigun von 2012, neu gebaut von seinem ursprünglichen Schöpfer.",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "support": {
+    "lead": "Fragen, Fehlerberichte und Wünsche zu MECHA BURST sind per E-Mail willkommen.",
+    "contact": {
+      "label": "Contact",
+      "title": "Kontakt",
+      "body": "MECHA BURST wird von einer einzelnen Person entwickelt, eine Antwort kann daher ein paar Tage dauern. Bei Fehlerberichten beschleunigen die folgenden Angaben die Untersuchung erheblich.",
+      "button": "E-Mail schreiben",
+      "subject": "[MECHA BURST] Support",
+      "includeTitle": "Bitte angeben",
+      "include": [
+        "Dein Gerät (zum Beispiel iPhone 15 Pro)",
+        "Deine iOS-Version",
+        "Die App-Version (auf der App-Store-Seite angegeben)",
+        "Auf welchem Bildschirm du warst und was du getan hast, möglichst mit Screenshot"
+      ]
+    },
+    "faqLabel": "FAQ",
+    "faq": [
+      {
+        "q": "Was kann ich kostenlos spielen?",
+        "a": "Der erste Feldzug, die Erde, ist mit allen Funktionen komplett kostenlos und lässt sich beliebig oft wiederholen. Die vier Feldzüge vom Mars bis zur Sonne werden mit dem einmaligen In-App-Kauf „Vollversion“ freigeschaltet. Sonst gibt es nichts zu kaufen."
+      },
+      {
+        "q": "Wie stelle ich meinen Kauf wieder her?",
+        "a": "Nach einem Gerätewechsel oder einer Neuinstallation öffnest du das Kommandodeck (das Hauptmenü), wählst „Vollversion“ und tippst auf der angezeigten Seite auf „Kauf wiederherstellen“. Du musst mit derselben Apple-ID angemeldet sein, mit der du gekauft hast. Dieselbe Seite erscheint auch direkt nach der Sicherung des Erd-Feldzugs."
+      },
+      {
+        "q": "Kann ich auf einem anderen Gerät spielen?",
+        "a": "Ja. Mit derselben Apple-ID steht die Vollversion auf iPhone und iPad zur Verfügung; nutze auf jedem Gerät „Kauf wiederherstellen“. Spielstände bleiben allerdings auf dem jeweiligen Gerät und werden nicht synchronisiert."
+      },
+      {
+        "q": "Wo liegt mein Spielstand?",
+        "a": "Der Spielstand wird nur auf deinem Gerät gespeichert, und zwar automatisch. Er wird weder mit iCloud noch anderswohin synchronisiert oder gesichert. Wird die App gelöscht, ist auch der Spielstand gelöscht."
+      },
+      {
+        "q": "Funktioniert es offline?",
+        "a": "Ja. Zum Spielen ist keine Verbindung nötig. Nur der Kauf oder die Wiederherstellung der Vollversion spricht mit dem App Store."
+      },
+      {
+        "q": "Wie ist die Steuerung?",
+        "a": "Bewegen mit dem linken Stick, Feuern mit dem rechten Pad. Nähe zum Gegner schwingt das Strahlschwert; tiefes Drücken des linken Sticks zündet den Booster-Dash. Menüs bedienst du mit dem Pad am unteren Bildschirmrand oder per Tippen."
+      },
+      {
+        "q": "Wie ändere ich die Sprache?",
+        "a": "Die App folgt der Spracheinstellung von iOS. Unterstützt werden Deutsch, Englisch, Japanisch, Französisch, vereinfachtes und traditionelles Chinesisch."
+      },
+      {
+        "q": "Ich möchte eine Rückerstattung",
+        "a": "Rückerstattungen für In-App-Käufe wickelt Apple ab. Beantrage sie unter https://reportaproblem.apple.com. Der Entwickler kann keine Rückerstattungen vornehmen."
+      },
+      {
+        "q": "Ich habe einen Fehler gefunden",
+        "a": "Nutze bitte die Kontaktangaben oben und nenne Gerät, iOS-Version, App-Version und was passiert ist. Korrekturen erscheinen so schnell wie möglich."
+      }
+    ]
+  },
+  "privacy": {
+    "updated": "Zuletzt aktualisiert: 20. September 2026",
+    "intro": [
+      "Diese Erklärung beschreibt, wie die iOS-App MECHA BURST (die „App“) und ihre offizielle Website (mechaburst.pages.dev), beide bereitgestellt von Yota Hamada (der „Entwickler“), mit Informationen umgehen."
+    ],
+    "sections": [
+      {
+        "title": "Kurz gesagt",
+        "paragraphs": [
+          "Die App benötigt kein Konto und erhebt keine personenbezogenen Daten wie Name, E-Mail-Adresse oder Standort. Sie zeigt keine Werbung und betreibt kein Werbe-Tracking; sie fragt nie nach einer App-Tracking-Transparency-Erlaubnis."
+        ]
+      },
+      {
+        "title": "Nutzungsanalyse",
+        "paragraphs": [
+          "Zur Verbesserung des Spiels sendet die App anonyme Nutzungsdaten an den Analysedienst von Amplitude, Inc. Die Daten bestehen aus Spielereignissen wie dem Öffnen des Spiels, Beginn und Ende eines Einsatzes, dem ersten Einsatz, Käufen mit Spielwährung und dem Aussetzen einer Drohne, zusammen mit dem Feldzugstand zu diesem Zeitpunkt (Front, Rang, Verdienst, gesteuerte Einheit, Anzahl der Flügelleute, Gefechtsergebnis und Ähnliches).",
+          "Um Geräte zu unterscheiden, verwendet die App eine zufällige Kennung, die sie beim ersten Start auf dem Gerät erzeugt. Diese Kennung ist nicht Apples Werbe- oder Anbieterkennung (IDFA / IDFV) und ist nicht mit dir verknüpft. Deine IP-Adresse wird beim Senden maskiert und nicht gespeichert. Es werden keine personenbezogenen Informationen übermittelt."
+        ]
+      },
+      {
+        "title": "In-App-Kauf",
+        "paragraphs": [
+          "Der Kauf der „Vollversion“ wird von Apples App Store (StoreKit) abgewickelt. Der Entwickler erhält und speichert weder Kaufhistorie noch Zahlungsdaten noch deine Apple-ID. Der Besitz wird auf dem Gerät geprüft."
+        ]
+      },
+      {
+        "title": "Spielstand",
+        "paragraphs": [
+          "Dein Fortschritt wird nur auf deinem Gerät gespeichert, zusammen mit der oben beschriebenen anonymen Kennung. Er wird an keinen Server des Entwicklers gesendet und nicht mit iCloud synchronisiert. Das Löschen der App löscht Spielstand und Kennung."
+        ]
+      },
+      {
+        "title": "Diese Website",
+        "paragraphs": [
+          "Die offizielle Website (mechaburst.pages.dev) setzt keine Cookies und betreibt keine Analyse. Ihr Hosting-Anbieter Cloudflare, Inc. kann Zugriffsprotokolle (einschließlich IP-Adressen) zu Sicherheits- und Betriebszwecken nach seiner eigenen Datenschutzerklärung verarbeiten."
+        ]
+      },
+      {
+        "title": "Dienste Dritter",
+        "paragraphs": ["App und Website nutzen die folgenden Dritten."],
+        "bullets": [
+          "Amplitude, Inc. (Nutzungsanalyse) — https://amplitude.com/privacy",
+          "Apple Inc. (App Store, In-App-Kauf) — https://www.apple.com/legal/privacy/",
+          "Cloudflare, Inc. (Website-Hosting) — https://www.cloudflare.com/privacypolicy/"
+        ]
+      },
+      {
+        "title": "Kinder",
+        "paragraphs": [
+          "Da die App keine personenbezogenen Daten erhebt, behandelt sie alle Spielenden unabhängig vom Alter gleich. Sie erhebt wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren."
+        ]
+      },
+      {
+        "title": "Aufbewahrung und Löschung",
+        "paragraphs": [
+          "Analysedaten werden gemäß der Aufbewahrungsrichtlinie von Amplitude gespeichert. Da die anonyme Kennung nicht mit einer Person verknüpft ist, kann der Entwickler die Daten einer bestimmten Person nicht herausgreifen und löschen. Das Löschen der App entfernt Kennung und Spielstand vom Gerät, und es werden keine weiteren Daten gesendet."
+        ]
+      },
+      {
+        "title": "Änderungen",
+        "paragraphs": ["Änderungen dieser Erklärung werden auf dieser Seite veröffentlicht, mit aktualisiertem Datum am Anfang."]
+      },
+      {
+        "title": "Sprache",
+        "paragraphs": ["Die japanische und die englische Fassung dieser Erklärung sind maßgeblich. Weicht eine andere Sprachfassung ab, gelten die japanische und die englische Fassung."]
+      }
+    ],
+    "contactTitle": "Kontakt",
+    "contactBody": "Fragen zu dieser Erklärung an"
+  }
+}

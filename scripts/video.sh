@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 root="${SPACEWAR_ROOT:-..}"
 mkdir -p public/media
-for lang in ja en; do
+for lang in ja en de fr zh-Hans zh-Hant; do
   ffmpeg -y -loglevel error -i "$root/ios/store/previews/iphone/$lang.mp4" \
     -vf "scale=720:-2:flags=lanczos" \
     -c:v libx264 -preset slow -crf 23 -pix_fmt yuv420p -profile:v high -level 4.0 \

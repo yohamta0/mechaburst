@@ -10,7 +10,6 @@ export const site = {
   contactEmail: "yohamta@gmail.com",
   policyUpdated: "2026-09-20",
   app: { released: true, storeId: "6812312523", storeCountry: { ja: "jp", en: "us", de: "de", fr: "fr", "zh-Hans": "cn", "zh-Hant": "tw" } as Record<Lang, string> },
-  video: { ja: "ja", en: "en", de: "en", fr: "en", "zh-Hans": "en", "zh-Hant": "en" } as Record<Lang, "ja" | "en">,
   ogLocale: { ja: "ja_JP", en: "en_US", de: "de_DE", fr: "fr_FR", "zh-Hans": "zh_CN", "zh-Hant": "zh_TW" } as Record<Lang, string>,
   langName: { ja: "日本語", en: "English", de: "Deutsch", fr: "Français", "zh-Hans": "简体中文", "zh-Hant": "繁體中文" } as Record<Lang, string>,
 };

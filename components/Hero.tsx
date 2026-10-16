@@ -1,12 +1,11 @@
 import type { Content } from "@/lib/content";
-import { site, type Lang } from "@/lib/site";
+import type { Lang } from "@/lib/site";
 import { Phone } from "./Phone";
 import { Badge } from "./Badge";
 
 export function Hero({ lang, c }: { lang: Lang; c: Content }) {
-  const v = site.video[lang];
   // Rendered as raw HTML so the `muted` attribute reaches the markup; React drops it, and autoplay needs it before hydration.
-  const video = `<video autoplay muted loop playsinline preload="metadata" poster="/img/shots/${lang}/title.webp" aria-label="${c.hero.videoLabel.replace(/"/g, "&quot;")}"><source src="/media/preview-${v}.mp4" type="video/mp4"></video>`;
+  const video = `<video autoplay muted loop playsinline preload="metadata" poster="/img/shots/${lang}/title.webp" aria-label="${c.hero.videoLabel.replace(/"/g, "&quot;")}"><source src="/media/preview-${lang}.mp4" type="video/mp4"></video>`;
   return (
     <section className="hero">
       <div className="hero__bg" aria-hidden="true" />

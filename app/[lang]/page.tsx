@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import { loadContent } from "@/lib/content";
 import { pageMeta } from "@/lib/meta";
-import { site, type Lang } from "@/lib/site";
+import type { Lang } from "@/lib/site";
 import { Hero } from "@/components/Hero";
 import { Phone } from "@/components/Phone";
 import { Badge } from "@/components/Badge";
+import { JsonLd } from "@/components/JsonLd";
+import { gameSchema } from "@/lib/structured";
 
 type Props = { params: Promise<{ lang: Lang }> };
 
@@ -19,6 +21,7 @@ export default async function Landing({ params }: Props) {
   const c = await loadContent(lang);
   return (
     <main>
+      <JsonLd data={gameSchema(lang, c)} />
       <Hero lang={lang} c={c} />
 
       <section className="story" aria-label={c.story.label}>
@@ -104,7 +107,6 @@ export default async function Landing({ params }: Props) {
           <p className="hero__note">{c.hero.note}</p>
         </div>
       </section>
-      {site.app.storeId ? null : <span hidden data-app-store="pending" />}
     </main>
   );
 }

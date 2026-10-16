@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { loadContent } from "@/lib/content";
 import { pageMeta } from "@/lib/meta";
 import { site, pageUrl, type Lang } from "@/lib/site";
+import { JsonLd } from "@/components/JsonLd";
+import { faqSchema } from "@/lib/structured";
 
 type Props = { params: Promise<{ lang: Lang }> };
 
@@ -18,6 +20,7 @@ export default async function Support({ params }: Props) {
   const mailto = `mailto:${site.contactEmail}?subject=${encodeURIComponent(s.contact.subject)}`;
   return (
     <main className="wrap doc">
+      <JsonLd data={faqSchema(c)} />
       <div className="kicker">SUPPORT</div>
       <h1>{c.nav.support}</h1>
       <p className="lead">{s.lead}</p>

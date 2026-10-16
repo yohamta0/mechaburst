@@ -1,0 +1,27 @@
+# MECHA BURST
+
+> MECHA BURST is a portrait (vertical) mech shooter for iPhone and iPad by solo developer Yota Hamada. You pilot a humanoid combat mech, lead a wing of allies, and grow your units by earning funds and choosing upgrade cards. The Earth campaign is free; one in-app purchase unlocks the rest. No ads, no account, plays offline.
+
+## What it is
+
+- Genre: 2D mech shooter (shoot 'em up) played in portrait on a phone or tablet, with free 360° flight across a battlefield larger than the screen.
+- Core loop: sortie, fight, earn funds; fill the funds gauge to level up and pick an upgrade card for your pods; collect and switch between mechs; lead more wingmen as your rank rises.
+- Combat: left stick to fly, right pad to fire, a beam saber up close, and a booster dash with a moment of invincibility. Grazing bullets near death slows time.
+- Content: 5 campaigns from Earth to the Sun; 5 kinds of battlefield (orbit, fortress, open ground, city, asteroid belt) with weather and night; 22 named enemies with signature attacks; 20 pod cards (weapons and support pods).
+- Origin: a full remake of the Japanese feature-phone game 宇宙防衛軍 (Uchū Bōeigun, "Space Defense Force") by its original creator.
+
+## Facts
+
+- Platforms: iPhone and iPad (iOS). Not on Android or PC.
+- Price: free download. The Earth campaign is completely free. The four campaigns from Mars to the Sun unlock with a one-time in-app purchase called "Full Version". No subscriptions, no consumables, no ads.
+- Offline: plays without a connection; only buying or restoring the Full Version uses the App Store.
+- Languages: English, Japanese, German, French, Simplified Chinese, Traditional Chinese.
+- Saves: stored on the device only.
+- Age rating: 13+ on the App Store.
+
+## Links
+
+- App Store: https://apps.apple.com/app/id6812312523
+- Official site: https://mechaburst.com/en/ (also /ja/, /de/, /fr/, /zh-Hans/, /zh-Hant/)
+- Support and FAQ: https://mechaburst.com/en/support/
+- Privacy policy: https://mechaburst.com/en/privacy/

@@ -26,6 +26,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.origin),
   applicationName: site.name,
   formatDetection: { telephone: false },
+  // Safari on iPhone and iPad offers the app in a banner above the page
+  ...(site.app.released ? { itunes: { appId: site.app.storeId } } : {}),
 };
 
 export const viewport = { themeColor: "#07111c" };

@@ -5,9 +5,9 @@
 ## What it is
 
 - Genre: 2D mech shooter (shoot 'em up) played in portrait on a phone or tablet, with free 360° flight across a battlefield larger than the screen.
-- Core loop: sortie, fight, earn funds; fill the funds gauge to level up and pick an upgrade card for your pods; collect and switch between mechs; lead more wingmen as your rank rises.
+- Core loop: sortie, fight, earn funds. Each time the funds gauge fills, pick one of three upgrade cards that raises a pod type a level (Lv1 to Lv4). In battle, downed enemies drop pods that fight beside you for the rest of that battle, as strong as their card level. Buy and switch between mechs, and lead more wingmen as your rank rises.
 - Combat: left stick to fly, right pad to fire, a beam saber up close, and a booster dash with a moment of invincibility. Grazing bullets near death slows time.
-- Content: 5 campaigns from Earth to the Sun; 5 kinds of battlefield (orbit, fortress, open ground, city, asteroid belt) with weather and night; 22 named enemies with signature attacks; 20 pod cards (weapons and support pods).
+- Content: 5 campaigns from Earth to the Sun; 5 kinds of battlefield (orbit, fortress, open ground, city, asteroid belt) with weather and night; 22 named enemies with signature attacks; 10 pod types (homing missile, prism laser, funnel, Tesla arc, spinning blade, mace, flame pod, laser, machine gun, Aegis shield) plus 3 support cards.
 - Origin: a full remake of the Japanese feature-phone game 宇宙防衛軍 (Uchū Bōeigun, "Space Defense Force") by its original creator.
 
 ## Facts

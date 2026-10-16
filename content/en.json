@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "MECHA BURST — Portrait mech shooter for iPhone & iPad",
-    "description": "Humanity's last line holds at lunar orbit. Climb into a combat mech as a cadet, lead your wing, and become the Ace of the Federation. The classic Uchū Bōeigun rebuilt by its creator as a portrait mech shooter. iPhone / iPad, Earth campaign free.",
+    "description": "Shoot. Slash. Level up. A portrait mech shooter for iPhone and iPad: earn funds, upgrade your pods, switch mechs and become Ace of the Federation. Earth campaign free, no ads, plays offline.",
     "supportTitle": "Support — MECHA BURST",
     "supportDescription": "How to contact the developer of MECHA BURST, plus answers about restoring purchases, save data and controls.",
     "privacyTitle": "Privacy Policy — MECHA BURST",
@@ -42,7 +42,15 @@
       "tags": ["Free flight", "Beam saber", "Booster dash", "Dynamic zoom"]
     },
     {
-      "label": "02 / Wing",
+      "label": "02 / Hangar",
+      "title": "Grow your unit. Arm your pods.",
+      "body": "Shotgun, laser, cannon, nuclear missile, a heavy unit that raises a shield, even warship classes. Every unit changes your shot and your rhythm. Levels earned in sorties raise armor, reaction, rate of fire and firepower by chance, so your unit grows like no other of its type. Fill the funds gauge, pick a pod card, and thicken your barrage with piercing lasers, funnels and an Aegis shield.",
+      "shot": "picker",
+      "alt": "Upgrade selection: pick one of three pod cards to level up",
+      "tags": ["Many units", "Random growth", "Pod cards"]
+    },
+    {
+      "label": "03 / Wing",
       "title": "Sortie with a wing that has your back.",
       "body": "This is no lone stand. The allies you form up fly beside you, call their kills and push forward. Rise from cadet toward admiral and you lead more of them; at the higher ranks you can send the wing out alone and command from the deck. They level up sortie after sortie, too. The squadron becomes something you built.",
       "shot": "roster",
@@ -50,49 +58,42 @@
       "tags": ["Form your wing", "Rank promotions", "Wing-only sorties"]
     },
     {
-      "label": "03 / Named Enemies",
-      "title": "Enemies with names are waiting for you.",
-      "body": "Enemy squads fight with doctrine: rotating attacks, pincers, revenge for a fallen wingmate, saber charges, rams. Then the named ones appear in gold. After a gold telegraph and a called move comes the signature attack: rails racing the screen's edges, a ring of fireballs, a tidal wave, a rain of giant spears. Read the tell, break the range, bring one down and the funds come in big. Miss the kill and your nemesis returns.",
-      "shot": "unique_a",
-      "alt": "A named enemy with a gold nameplate unleashing its signature attack",
-      "tags": ["Squad doctrine", "Telegraphed moves", "Returning nemeses"]
-    },
-    {
-      "label": "04 / Hangar",
-      "title": "Grow your unit. Arm your pods.",
-      "body": "Shotgun, laser, cannon, nuclear missile, a heavy unit that raises a shield, even warship classes. Every unit changes your shot and your rhythm. Levels earned in sorties raise armor, reaction, rate of fire and firepower by chance, so your unit grows like no other of its type. Fill the funds gauge, pick a pod card, and thicken your barrage with piercing lasers, funnels and an Aegis shield.",
-      "shot": "deck",
-      "alt": "The command deck: orders for sortie, repair, unit purchase and more",
-      "tags": ["Many units", "Random growth", "Pod cards"]
-    },
-    {
-      "label": "05 / Fronts",
+      "label": "04 / Fronts",
       "title": "Push the line from Earth to the Sun.",
       "body": "Orbit, fortress, open ground, city, asteroid belt. Fields that turn clear, cloudy, rainy and dark, chosen card by card on the front map. On the command deck, officer Liese briefs you and greets you home. Reach 100% occupation and the front is secured, on to the next planet. Mars, Jupiter, Saturn, the Sun: the Federation's line advances by your hand.",
       "shot": "city_night",
       "alt": "A night battle in the city with glowing tracers and lit windows",
       "tags": ["Five battlefields", "Weather and night", "Front map"]
+    },
+    {
+      "label": "05 / Named Enemies",
+      "title": "Enemies with names are waiting for you.",
+      "body": "Enemy squads fight with doctrine: rotating attacks, pincers, revenge for a fallen wingmate, saber charges, rams. Then the named ones appear in gold. After a gold telegraph and a called move comes the signature attack: rails racing the screen's edges, a ring of fireballs, a tidal wave, a rain of giant spears. Read the tell, break the range, bring one down and the funds come in big. Miss the kill and your nemesis returns.",
+      "shot": "unique_a",
+      "alt": "A named enemy with a gold nameplate unleashing its signature attack",
+      "tags": ["Squad doctrine", "Telegraphed moves", "Returning nemeses"]
     }
   ],
   "facts": [
     { "n": "5", "label": "Campaigns, from Earth to the Sun" },
     { "n": "5", "label": "Battlefields: orbit, fortress, field, city, asteroid belt" },
     { "n": "22", "label": "Named enemies with signature moves" },
-    { "n": "20", "label": "Pod cards" },
+    { "n": "10", "label": "Pod types" },
     { "n": "6", "label": "Languages" }
   ],
   "shots": {
     "label": "Screenshots",
     "title": "Field record",
     "items": [
-      { "alt": "Shoot, slash, grow, take the front. Title screen" },
-      { "alt": "Dogfights in orbit. Cut through enemy squads with your allies" },
-      { "alt": "Read the signature move. Named enemies lie in wait across the fronts" },
+      { "alt": "Shoot. Slash. Level up. A portrait mech shooter" },
+      { "alt": "Win. Upgrade. Repeat. Pick a card and build your own loadout" },
+      { "alt": "Pods change how you fight. Homing missiles, prisms, funnels…" },
       { "alt": "From orbit to the ground. Dig through cover and silence the batteries" },
       { "alt": "Night city, glowing tracers. Weather and time of day change every field" },
-      { "alt": "You choose the course. Pick the next sector from the front map's cards" },
       { "alt": "Buy units. Form your wing. The command deck, where funds become a squadron" },
-      { "alt": "Front secured. On to the next. Five campaigns, from Earth to the Sun" }
+      { "alt": "You choose the course. Pick the next sector from the front map’s cards" },
+      { "alt": "Front secured. On to the next. Five campaigns, from Earth to the Sun" },
+      { "alt": "Read the signature move. Named enemies lie in wait across the fronts" }
     ]
   },
   "principles": {

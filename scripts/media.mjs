@@ -6,8 +6,8 @@ import path from "node:path";
 
 const root = process.env.SPACEWAR_ROOT || "..";
 const langs = ["ja", "en", "de", "fr", "zh-Hans", "zh-Hant"];
-const captures = ["title", "space", "roster", "unique_a", "deck", "city_night", "ground", "starmap"];
-const slides = ["01_title", "02_space", "03_unique", "04_ground", "05_city", "06_starmap", "07_hq", "08_clear"];
+const captures = ["title", "space", "picker", "roster", "city_night", "unique_a"];
+const slides = ["01_hero", "02_grow", "03_pods", "04_ground", "05_city", "06_hq", "07_starmap", "08_clear", "09_unique"];
 const out = "public/img";
 
 const src = (...p) => path.join(root, ...p);

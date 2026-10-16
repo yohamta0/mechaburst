@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "MECHA BURST — Shooter mécha en portrait pour iPhone et iPad",
-    "description": "La dernière ligne de défense de l'humanité tient en orbite lunaire. Montez dans un mécha de combat en tant qu'élève pilote, menez votre escadrille et devenez l'As de la Fédération. Le classique Uchū Bōeigun, reconstruit par son créateur en shooter mécha vertical. iPhone / iPad, campagne terrestre gratuite.",
+    "description": "Tirez. Tranchez. Améliorez. Un shooter mécha en portrait pour iPhone et iPad : gagnez du mérite, améliorez vos drones, changez de mécha et devenez l’as de la Fédération. Campagne Terre gratuite, sans pub, hors ligne.",
     "supportTitle": "Assistance — MECHA BURST",
     "supportDescription": "Comment contacter le développeur de MECHA BURST, et des réponses sur la restauration des achats, les sauvegardes et les commandes.",
     "privacyTitle": "Politique de confidentialité — MECHA BURST",
@@ -42,7 +42,15 @@
       "tags": ["Vol libre", "Sabre à faisceau", "Dash de boost", "Zoom dynamique"]
     },
     {
-      "label": "02 / Wing",
+      "label": "02 / Hangar",
+      "title": "Faites grandir votre unité. Armez vos drones.",
+      "body": "Fusil à pompe, laser, canon, missile nucléaire, une unité lourde qui lève un bouclier, jusqu'aux classes de vaisseaux de guerre. Chaque unité change votre tir et votre rythme. Les niveaux gagnés en sortie augmentent au hasard blindage, réaction, cadence et puissance : votre unité grandit comme aucune autre de son modèle. Remplissez la jauge de mérite, choisissez une carte de drone et épaississez votre barrage avec lasers perforants, funnels et bouclier Égide.",
+      "shot": "picker",
+      "alt": "Sélection d’amélioration : choisir une carte de drone parmi trois",
+      "tags": ["Unités variées", "Progression aléatoire", "Cartes de drone"]
+    },
+    {
+      "label": "03 / Wing",
       "title": "Partez en sortie avec une escadrille qui couvre vos arrières.",
       "body": "Pas de baroud solitaire. Les alliés que vous formez volent à vos côtés, annoncent leurs victoires et poussent en avant. Montez de cadet vers amiral et vous en menez davantage ; aux grades élevés, envoyez l'escadrille seule et commandez depuis le pont. Eux aussi montent de niveau sortie après sortie. L'escadrille devient quelque chose que vous avez bâti.",
       "shot": "roster",
@@ -50,49 +58,42 @@
       "tags": ["Formez votre escadrille", "Promotions", "Sorties sans le joueur"]
     },
     {
-      "label": "03 / Named Enemies",
-      "title": "Des ennemis qui ont un nom vous attendent.",
-      "body": "Les escouades ennemies combattent avec doctrine : attaques à tour de rôle, tenailles, vengeance d'un équipier tombé, charges au sabre, percussions. Puis les nommés apparaissent, en lettres d'or. Après une annonce dorée et le cri de leur technique vient l'attaque signature : des rails le long des bords de l'écran, un anneau de boules de feu, un raz-de-marée, une pluie de lances géantes. Lisez l'annonce, brisez la distance, abattez-en un et le mérite tombe en grand. Manquez la mise à mort et votre némésis revient.",
-      "shot": "unique_a",
-      "alt": "Un ennemi nommé à la plaque dorée déchaîne son attaque signature",
-      "tags": ["Doctrine d'escouade", "Attaques annoncées", "Némésis récurrentes"]
-    },
-    {
-      "label": "04 / Hangar",
-      "title": "Faites grandir votre unité. Armez vos drones.",
-      "body": "Fusil à pompe, laser, canon, missile nucléaire, une unité lourde qui lève un bouclier, jusqu'aux classes de vaisseaux de guerre. Chaque unité change votre tir et votre rythme. Les niveaux gagnés en sortie augmentent au hasard blindage, réaction, cadence et puissance : votre unité grandit comme aucune autre de son modèle. Remplissez la jauge de mérite, choisissez une carte de drone et épaississez votre barrage avec lasers perforants, funnels et bouclier Égide.",
-      "shot": "deck",
-      "alt": "Le pont de commandement : ordres de sortie, réparation, achat d'unités et plus",
-      "tags": ["Unités variées", "Progression aléatoire", "Cartes de drone"]
-    },
-    {
-      "label": "05 / Fronts",
+      "label": "04 / Fronts",
       "title": "Poussez la ligne de la Terre au Soleil.",
       "body": "Orbite, forteresse, terrain découvert, ville, ceinture d'astéroïdes. Des terrains qui passent du beau temps aux nuages, à la pluie et à la nuit, choisis carte par carte sur la carte du front. Sur le pont de commandement, l'officier Liese vous briefe et vous accueille au retour. Atteignez 100 % d'occupation et le front est conquis, en route vers la planète suivante. Mars, Jupiter, Saturne, le Soleil : la ligne de la Fédération avance par votre main.",
       "shot": "city_night",
       "alt": "Un combat nocturne en ville, traînées lumineuses et fenêtres éclairées",
       "tags": ["Cinq champs de bataille", "Météo et nuit", "Carte du front"]
+    },
+    {
+      "label": "05 / Named Enemies",
+      "title": "Des ennemis qui ont un nom vous attendent.",
+      "body": "Les escouades ennemies combattent avec doctrine : attaques à tour de rôle, tenailles, vengeance d'un équipier tombé, charges au sabre, percussions. Puis les nommés apparaissent, en lettres d'or. Après une annonce dorée et le cri de leur technique vient l'attaque signature : des rails le long des bords de l'écran, un anneau de boules de feu, un raz-de-marée, une pluie de lances géantes. Lisez l'annonce, brisez la distance, abattez-en un et le mérite tombe en grand. Manquez la mise à mort et votre némésis revient.",
+      "shot": "unique_a",
+      "alt": "Un ennemi nommé à la plaque dorée déchaîne son attaque signature",
+      "tags": ["Doctrine d'escouade", "Attaques annoncées", "Némésis récurrentes"]
     }
   ],
   "facts": [
     { "n": "5", "label": "Campagnes, de la Terre au Soleil" },
     { "n": "5", "label": "Champs de bataille : orbite, forteresse, terrain, ville, ceinture d'astéroïdes" },
     { "n": "22", "label": "Ennemis nommés aux attaques signature" },
-    { "n": "20", "label": "Cartes de drone" },
+    { "n": "10", "label": "Types de drones" },
     { "n": "6", "label": "Langues" }
   ],
   "shots": {
     "label": "Screenshots",
     "title": "Journal de bord",
     "items": [
-      { "alt": "Tirez, tranchez, progressez, conquérez. Écran titre" },
-      { "alt": "Mêlée en orbite. Percez les escouades ennemies avec vos alliés" },
-      { "alt": "Anticipez l'attaque signature. Des ennemis nommés guettent en chaque secteur" },
-      { "alt": "De l'orbite au sol. Creusez, puis faites taire les batteries" },
-      { "alt": "Ville de nuit, traînées de feu. La météo et l'heure transforment chaque terrain" },
-      { "alt": "Vous choisissez le cap. Choisissez le secteur suivant sur la carte" },
+      { "alt": "Tirez. Tranchez. Améliorez. Un shooter mécha en mode portrait" },
+      { "alt": "Gagnez. Améliorez. Recommencez. Choisissez une carte, composez votre équipement" },
+      { "alt": "Vos drones changent le combat. Missiles guidés, prismes, satellites…" },
+      { "alt": "De l’orbite au sol. Creusez, puis faites taire les batteries" },
+      { "alt": "Ville de nuit, traînées de feu. La météo et l’heure transforment chaque terrain" },
       { "alt": "Achetez. Formez votre escadrille. Sur le pont, le mérite devient une escadrille" },
-      { "alt": "Front conquis. Au suivant. Cinq campagnes, de la Terre au Soleil" }
+      { "alt": "Vous choisissez le cap. Choisissez le secteur suivant sur la carte" },
+      { "alt": "Front conquis. Au suivant. Cinq campagnes, de la Terre au Soleil" },
+      { "alt": "Anticipez l’attaque signature. Des ennemis nommés guettent en chaque secteur" }
     ]
   },
   "principles": {

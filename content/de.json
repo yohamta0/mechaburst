@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "MECHA BURST — Mecha-Shooter im Hochformat für iPhone & iPad",
-    "description": "Die letzte Verteidigungslinie der Menschheit hält im Mondorbit. Steig als Kadett in einen Kampfmecha, führe deine Staffel und werde zum Ass der Föderation. Der Klassiker Uchū Bōeigun, vom Schöpfer als Hochkant-Mecha-Shooter neu gebaut. iPhone / iPad, Erd-Feldzug gratis.",
+    "description": "Schießen. Schneiden. Aufrüsten. Ein Mecha-Shooter im Hochformat für iPhone und iPad: Verdienst sammeln, Drohnen aufrüsten, Mechas wechseln und Ass der Föderation werden. Erd-Kampagne gratis, keine Werbung, offline spielbar.",
     "supportTitle": "Support — MECHA BURST",
     "supportDescription": "Kontakt zum Entwickler von MECHA BURST sowie Antworten zu Kauf-Wiederherstellung, Spielständen und Steuerung.",
     "privacyTitle": "Datenschutzerklärung — MECHA BURST",
@@ -42,7 +42,15 @@
       "tags": ["Freier Flug", "Strahlschwert", "Booster-Dash", "Dynamischer Zoom"]
     },
     {
-      "label": "02 / Wing",
+      "label": "02 / Hangar",
+      "title": "Lass deine Einheit wachsen. Rüste deine Drohnen.",
+      "body": "Schrotflinte, Laser, Kanone, Atomrakete, eine schwere Einheit mit Schild, sogar Kriegsschiffklassen. Jede Einheit verändert deinen Schuss und deinen Rhythmus. Level aus Einsätzen heben Panzerung, Reaktion, Feuerrate und Feuerkraft per Zufall, sodass deine Einheit wächst wie keine andere ihres Typs. Füll die Verdienstanzeige, wähle eine Drohnenkarte und verdichte dein Sperrfeuer mit durchschlagenden Lasern, Funnels und einem Aegis-Schild.",
+      "shot": "picker",
+      "alt": "Upgrade-Auswahl: eine von drei Drohnenkarten wählen und aufrüsten",
+      "tags": ["Viele Einheiten", "Zufälliges Wachstum", "Drohnenkarten"]
+    },
+    {
+      "label": "03 / Wing",
       "title": "Rück aus mit einer Staffel, die dir den Rücken deckt.",
       "body": "Kein Alleingang. Die Verbündeten, die du aufstellst, fliegen neben dir, melden ihre Abschüsse und stoßen vor. Steigst du vom Kadetten Richtung Admiral auf, führst du mehr von ihnen; in hohen Dienstgraden schickst du die Staffel auch allein los und kommandierst vom Deck aus. Auch sie steigen mit jedem Einsatz im Level. Die Staffel wird zu etwas, das du aufgebaut hast.",
       "shot": "roster",
@@ -50,49 +58,42 @@
       "tags": ["Staffel aufstellen", "Beförderungen", "Einsätze nur mit Staffel"]
     },
     {
-      "label": "03 / Named Enemies",
-      "title": "Gegner mit Namen warten auf dich.",
-      "body": "Feindstaffeln kämpfen mit Doktrin: abwechselnde Angriffe, Zangen, Rache für gefallene Kameraden, Schwertsturm, Rammen. Dann tauchen die Benannten auf, in Gold. Nach goldener Ankündigung und dem Ruf ihres Manövers folgt der Spezialangriff: Schienen an den Bildschirmrändern, ein Ring aus Feuerbällen, eine Flutwelle, ein Regen riesiger Speere. Lies die Ankündigung, brich die Distanz, hol einen herunter, und der Verdienst fällt groß aus. Verpasst du den Abschuss, kehrt dein Erzfeind zurück.",
-      "shot": "unique_a",
-      "alt": "Ein benannter Gegner mit goldenem Namensschild entfesselt seinen Spezialangriff",
-      "tags": ["Staffel-Doktrin", "Angekündigte Manöver", "Wiederkehrende Erzfeinde"]
-    },
-    {
-      "label": "04 / Hangar",
-      "title": "Lass deine Einheit wachsen. Rüste deine Drohnen.",
-      "body": "Schrotflinte, Laser, Kanone, Atomrakete, eine schwere Einheit mit Schild, sogar Kriegsschiffklassen. Jede Einheit verändert deinen Schuss und deinen Rhythmus. Level aus Einsätzen heben Panzerung, Reaktion, Feuerrate und Feuerkraft per Zufall, sodass deine Einheit wächst wie keine andere ihres Typs. Füll die Verdienstanzeige, wähle eine Drohnenkarte und verdichte dein Sperrfeuer mit durchschlagenden Lasern, Funnels und einem Aegis-Schild.",
-      "shot": "deck",
-      "alt": "Das Kommandodeck: Befehle für Einsatz, Reparatur, Einheitenkauf und mehr",
-      "tags": ["Viele Einheiten", "Zufälliges Wachstum", "Drohnenkarten"]
-    },
-    {
-      "label": "05 / Fronts",
+      "label": "04 / Fronts",
       "title": "Schieb die Front von der Erde bis zur Sonne.",
       "body": "Orbit, Festung, offenes Gelände, Stadt, Asteroidengürtel. Felder, die klar, bewölkt, verregnet und dunkel werden, Karte für Karte auf der Frontkarte gewählt. Auf dem Kommandodeck brieft dich Offizierin Liese und begrüßt dich zurück. Erreichst du 100 % Besetzung, ist die Front gesichert, weiter zum nächsten Planeten. Mars, Jupiter, Saturn, Sonne: Die Linie der Föderation rückt durch deine Hand vor.",
       "shot": "city_night",
       "alt": "Ein Nachtgefecht in der Stadt mit leuchtenden Leuchtspuren und erleuchteten Fenstern",
       "tags": ["Fünf Schlachtfelder", "Wetter und Nacht", "Frontkarte"]
+    },
+    {
+      "label": "05 / Named Enemies",
+      "title": "Gegner mit Namen warten auf dich.",
+      "body": "Feindstaffeln kämpfen mit Doktrin: abwechselnde Angriffe, Zangen, Rache für gefallene Kameraden, Schwertsturm, Rammen. Dann tauchen die Benannten auf, in Gold. Nach goldener Ankündigung und dem Ruf ihres Manövers folgt der Spezialangriff: Schienen an den Bildschirmrändern, ein Ring aus Feuerbällen, eine Flutwelle, ein Regen riesiger Speere. Lies die Ankündigung, brich die Distanz, hol einen herunter, und der Verdienst fällt groß aus. Verpasst du den Abschuss, kehrt dein Erzfeind zurück.",
+      "shot": "unique_a",
+      "alt": "Ein benannter Gegner mit goldenem Namensschild entfesselt seinen Spezialangriff",
+      "tags": ["Staffel-Doktrin", "Angekündigte Manöver", "Wiederkehrende Erzfeinde"]
     }
   ],
   "facts": [
     { "n": "5", "label": "Feldzüge, von der Erde bis zur Sonne" },
     { "n": "5", "label": "Schlachtfelder: Orbit, Festung, Gelände, Stadt, Asteroidengürtel" },
     { "n": "22", "label": "Benannte Gegner mit Spezialangriffen" },
-    { "n": "20", "label": "Drohnenkarten" },
+    { "n": "10", "label": "Drohnenarten" },
     { "n": "6", "label": "Sprachen" }
   ],
   "shots": {
     "label": "Screenshots",
     "title": "Gefechtsakte",
     "items": [
-      { "alt": "Schießen, schneiden, wachsen, erobern. Titelbildschirm" },
-      { "alt": "Gefecht im Orbit. Zerschlage Staffeln mit deinen Verbündeten" },
-      { "alt": "Durchschaue den Spezialangriff. Benannte Gegner lauern in jedem Sektor" },
+      { "alt": "Schießen. Schneiden. Aufrüsten. Ein Mecha-Shooter im Hochformat" },
+      { "alt": "Siegen. Aufrüsten. Weiter. Wähle eine Karte, baue deine Ausrüstung" },
+      { "alt": "Drohnen ändern deinen Kampfstil. Lenkraketen, Prismen, Funnels …" },
       { "alt": "Vom Orbit auf den Boden. Deckung graben, Batterien ausschalten" },
       { "alt": "Nachtstadt, leuchtende Bahnen. Wetter und Tageszeit verändern jedes Feld" },
-      { "alt": "Du bestimmst den Kurs. Wähle den nächsten Sektor auf der Frontkarte" },
       { "alt": "Einheiten kaufen. Staffel bilden. Kommandodeck: Verdienst wird zur Staffel" },
-      { "alt": "Front gesichert. Weiter geht's. Fünf Feldzüge, von der Erde bis zur Sonne" }
+      { "alt": "Du bestimmst den Kurs. Wähle den nächsten Sektor auf der Frontkarte" },
+      { "alt": "Front gesichert. Weiter geht’s. Fünf Feldzüge, von der Erde bis zur Sonne" },
+      { "alt": "Durchschaue den Spezialangriff. Benannte Gegner lauern in jedem Sektor" }
     ]
   },
   "principles": {

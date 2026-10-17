@@ -39,3 +39,8 @@ test("no string is empty", () => {
     walk(load(f), "");
   }
 });
+
+test("ACE SURVIVOR's English matches its Japanese shape", () => {
+  const read = (l) => JSON.parse(readFileSync(new URL(`../content/ace-survivor/${l}.json`, import.meta.url), "utf8"));
+  assert.deepEqual(shape(read("en")), shape(read("ja")));
+});

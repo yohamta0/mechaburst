@@ -49,6 +49,17 @@ test("pages carry canonical and hreflang links", { skip: !existsSync(out) && "ru
   }
 });
 
+test("ACE SURVIVOR pages carry canonical and hreflang links", { skip: !existsSync(out) && "run npm run build first" }, () => {
+  for (const lang of ["en", "ja"]) {
+    for (const slug of ["", "support/", "privacy/"]) {
+      const html = readFileSync(join(out, "ace-survivor", lang, slug, "index.html"), "utf8");
+      assert.match(html, new RegExp(`<html lang="${lang}"`), `ace ${lang}/${slug} html lang`);
+      assert.match(html, new RegExp(`rel="canonical" href="https://mechaburst.com/ace-survivor/${lang}/${slug}"`), `ace ${lang}/${slug} canonical`);
+      assert.match(html, /hreflang="x-default"/i, `ace ${lang}/${slug} x-default`);
+    }
+  }
+});
+
 test("Pages conventions are present", { skip: !existsSync(out) && "run npm run build first" }, () => {
   for (const f of ["_headers", "404.html", "index.html", "support/index.html", "privacy/index.html", "robots.txt", "sitemap.xml", "img/og.png", "media/preview-ja.mp4", "media/preview-en.mp4"]) {
     assert.ok(existsSync(join(out, f)), `${f} missing from out/`);

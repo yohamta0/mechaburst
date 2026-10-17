@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "ACE SURVIVOR — one-thumb mech survivor for iPhone & iPad",
+    "description": "ACE SURVIVOR is a MECHA BURST spin-off: one mech against an endless horde. Your weapons fire on their own, you steer with one thumb, and every level-up offers three upgrades.",
+    "supportTitle": "Support — ACE SURVIVOR",
+    "supportDescription": "Contact and frequently asked questions for ACE SURVIVOR.",
+    "privacyTitle": "Privacy Policy — ACE SURVIVOR",
+    "privacyDescription": "How ACE SURVIVOR handles information: no account, no analytics, no advertising."
+  },
+  "nav": { "home": "ACE SURVIVOR home", "support": "Support", "privacy": "Privacy Policy", "language": "Language", "appStore": "App Store", "comingSoon": "Coming soon" },
+  "home": {
+    "kicker": "A MECHA BURST SPIN-OFF",
+    "headline": "One mech. Endless horde.",
+    "sub": "Steer with one thumb while your weapons fire on their own. Every level-up deals three upgrades; max a weapon, pair it with its part and it evolves. Survive the swarm, break the boss, and push from Earth orbit to the Sun.",
+    "facts": [
+      { "n": "9", "label": "mechs, each with a signature perk" },
+      { "n": "12", "label": "weapons that evolve, plus 3 unions" },
+      { "n": "5+1", "label": "stages and an Endless mode" },
+      { "n": "0", "label": "ads, gacha or subscriptions" }
+    ]
+  },
+  "footer": { "note": "A spin-off of MECHA BURST, made by one developer.", "rights": "All rights reserved." },
+  "support": {
+    "lead": "Questions, bug reports and requests about ACE SURVIVOR are welcome by email.",
+    "contact": {
+      "label": "Contact",
+      "title": "Get in touch",
+      "body": "ACE SURVIVOR is made by one developer, so a reply can take a few days. For bug reports, the details below make the investigation much faster.",
+      "button": "Send an email",
+      "subject": "[ACE SURVIVOR] Support",
+      "includeTitle": "Please include",
+      "include": [
+        "Your device (for example iPhone 16 Pro)",
+        "Your iOS version",
+        "The app version (shown on the App Store page)",
+        "What screen you were on and what you did, with a screenshot if possible"
+      ]
+    },
+    "faqLabel": "FAQ",
+    "faq": [
+      { "q": "What can I play for free?", "a": "Earth Orbit and the Asteroid Belt are free with every feature, as often as you like. Mars, Jupiter, the Sun and Endless open with the one-time in-app purchase \"Main Campaign\". There are no ads, no gacha and no subscriptions." },
+      { "q": "How do I restore my purchase?", "a": "Purchases made with your Apple ID usually come back on their own. If they don't, tap \"MAIN CAMPAIGN\" at the top left of the title screen (or any locked stage) and press \"RESTORE PURCHASES\". You need to be signed in with the Apple ID you bought it with." },
+      { "q": "Can I play on another device?", "a": "Yes. With the same Apple ID, the Main Campaign is available on your iPhone and your iPad. Save data stays on each device and is not shared between them." },
+      { "q": "How do I play?", "a": "Drag anywhere on the screen to move; your weapons fire on their own. Each level-up deals three cards: pick a new weapon, a passive, or a level for one you carry. A weapon at its top level evolves when you also carry its matching passive." },
+      { "q": "Where is my save data kept?", "a": "On your device only, saved automatically. It is not sent to any server. Deleting the app deletes the save data with it." },
+      { "q": "Does it work offline?", "a": "Yes. Playing needs no connection. Only buying or restoring the Main Campaign talks to the App Store." },
+      { "q": "How do I share a clip?", "a": "After a run, press \"SHARE CLIP\" on the results screen. The app cuts the best few seconds of the run into a video and opens the share sheet, where you can send it or save it to Photos." },
+      { "q": "How do I change the language?", "a": "The app follows your iOS language setting. It supports English, Japanese, German, French, Spanish, Portuguese (Brazil), Italian, Korean, Simplified Chinese and Traditional Chinese." },
+      { "q": "I want a refund", "a": "Refunds for App Store purchases are handled by Apple. You can request one at https://reportaproblem.apple.com" }
+    ]
+  },
+  "privacy": {
+    "updated": "Last updated: October 17, 2026",
+    "intro": [
+      "This policy explains how the iOS app ACE SURVIVOR (the \"App\"), provided by Yota Hamada (the \"Developer\"), handles information."
+    ],
+    "sections": [
+      {
+        "title": "In short",
+        "paragraphs": [
+          "The App collects no data. It needs no account, sends nothing to any server operated by the Developer, runs no analytics and shows no advertising. It does no tracking and never asks for App Tracking Transparency permission."
+        ]
+      },
+      {
+        "title": "In-app purchase",
+        "paragraphs": [
+          "The \"Main Campaign\" purchase is processed by Apple's App Store (StoreKit). The Developer does not receive or store purchase history, payment details or your Apple ID. Ownership is checked on the device."
+        ]
+      },
+      {
+        "title": "Save data",
+        "paragraphs": [
+          "Your progress is stored only on your device and is not sent to the Developer. Deleting the App deletes the save data."
+        ]
+      },
+      {
+        "title": "Shared clips",
+        "paragraphs": [
+          "When you press \"SHARE CLIP\", the App makes a short video of your run on the device and hands it to the iOS share sheet. Where it goes next is your choice; saving it to Photos asks for your permission first. The App uploads nothing by itself."
+        ]
+      },
+      {
+        "title": "This website",
+        "paragraphs": [
+          "This website sets no cookies and runs no analytics. Its hosting provider, Cloudflare, Inc., may process access logs (including IP addresses) for security and operations under its own privacy policy."
+        ]
+      },
+      {
+        "title": "Third-party services",
+        "paragraphs": ["The App and this website rely on the following third parties."],
+        "bullets": [
+          "Apple Inc. (App Store, in-app purchase) — https://www.apple.com/legal/privacy/",
+          "Cloudflare, Inc. (website hosting) — https://www.cloudflare.com/privacypolicy/"
+        ]
+      },
+      {
+        "title": "Children",
+        "paragraphs": ["Because the App collects no personal information, it treats every player the same regardless of age."]
+      },
+      {
+        "title": "Changes",
+        "paragraphs": ["Changes to this policy are published on this page, with the date at the top updated."]
+      },
+      {
+        "title": "Language",
+        "paragraphs": ["The Japanese and English versions of this policy are authoritative."]
+      }
+    ],
+    "contactTitle": "Contact",
+    "contactBody": "Questions about this policy:"
+  }
+}
